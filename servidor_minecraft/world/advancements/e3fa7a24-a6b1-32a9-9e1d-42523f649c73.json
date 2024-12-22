@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-22 22:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-22 22:25:02 +0000"
@@ -188,6 +194,12 @@
   "supplementaries:recipes/checker": {
     "criteria": {
       "has_cobblestone": "2024-12-22 22:25:14 +0000"
+    },
+    "done": true
+  },
+  "phayriosis:fleeeeeesh": {
+    "criteria": {
+      "fleeeeeesh_0": "2024-12-22 22:47:03 +0000"
     },
     "done": true
   },

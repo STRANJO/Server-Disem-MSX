@@ -428,3 +428,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'pharyosis_parasites:leathery_
 [22Dec2024 22:32:08.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Isn't It Iron Pick]
 [22Dec2024 22:36:22.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
 [22Dec2024 22:36:22.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[22Dec2024 22:46:11.943] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.92.189.101:53643] logged in with entity id 6928 at (0.9374138173056454, 63.0, 7.436371785996194)
+[22Dec2024 22:46:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[22Dec2024 22:46:12.259] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[22Dec2024 22:47:03.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: node
+[22Dec2024 22:47:03.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [The Flesh Has Arrived]
+[22Dec2024 22:47:03.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [The Flesh Has Arrived]
+[22Dec2024 22:52:00.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO melted
+[22Dec2024 22:52:00.145] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[22Dec2024 22:52:12.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto melted
+[22Dec2024 22:52:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Your First Grave]
+[22Dec2024 22:52:12.702] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[22Dec2024 22:52:16.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [The Most Useful Key]
+[22Dec2024 22:52:37.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferj2202[/100.95.118.74:60437] logged in with entity id 8229 at (4.5, 79.0, -6.5)
+[22Dec2024 22:52:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 joined the game
+[22Dec2024 22:52:37.268] [Server thread/INFO] [Jade/]: Syncing config to Ferj2202 (e6c88b6f-0d3a-32cd-ad32-b48cbc67b708)
+[22Dec2024 22:52:37.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Christmas]
+[22Dec2024 22:53:06.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported Ferj2202 to STRANJO]
+[22Dec2024 22:53:08.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Phayrector
+[22Dec2024 22:53:08.997] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[22Dec2024 22:53:09.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=65, z=4}
+[22Dec2024 22:53:09.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=67, z=3}
+[22Dec2024 22:53:09.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=65, z=4}
+[22Dec2024 22:53:10.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4, y=65, z=4}
+[22Dec2024 22:53:11.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=64, z=5}
+[22Dec2024 22:53:13.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=63, z=5}
+[22Dec2024 22:53:14.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2, y=63, z=5}
+[22Dec2024 22:53:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Phayriosis Parasite Infection]
+[22Dec2024 22:53:18.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=63, z=5}
+[22Dec2024 22:53:18.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=62, z=5}
+[22Dec2024 22:53:38.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made Ferj2202 a server operator]
+[22Dec2024 22:54:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Base Provisional:B:0:63:6:6:false:0:Internal-overworld-waypoints
