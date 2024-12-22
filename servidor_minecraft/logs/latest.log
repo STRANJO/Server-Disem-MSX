@@ -500,3 +500,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'pharyosis_parasites:leathery_
 [22Dec2024 23:13:41.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> nigger
 [22Dec2024 23:13:42.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> niiggeer
 [22Dec2024 23:13:46.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has reached the goal [Here They Come]
+[22Dec2024 23:14:55.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Stone Age]
+[22Dec2024 23:15:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Getting an Upgrade]
+[22Dec2024 23:15:22.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22Dec2024 23:15:26.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Ashes 'n Bones]
+[22Dec2024 23:15:26.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Monster Hunter]
+[22Dec2024 23:16:22.342] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4dc179d8[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:49672) lost connection: Disconnected
+[22Dec2024 23:16:47.362] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@615a4021[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:49682) lost connection: Disconnected
+[22Dec2024 23:16:58.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2476ms or 49 ticks behind
+[22Dec2024 23:17:14.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Knowledge of Death]
+[22Dec2024 23:17:14.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [A Strange Grave Dust]
+[22Dec2024 23:17:14.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Phayriosis Parasite Infection]
+[22Dec2024 23:18:38.728] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [elytraslot:main] rejected their client side version number
+[22Dec2024 23:18:38.729] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Dec2024 23:18:38.778] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49f8366[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:49939) lost connection: Connection closed - mismatched mod channel list
+[22Dec2024 23:18:56.048] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [elytraslot:main] rejected their client side version number
+[22Dec2024 23:18:56.050] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Dec2024 23:18:56.099] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@94e051b[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:49941) lost connection: Connection closed - mismatched mod channel list
+[22Dec2024 23:19:02.265] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [elytraslot:main] rejected their client side version number
+[22Dec2024 23:19:02.266] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Dec2024 23:19:02.302] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@499fc590[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:49945) lost connection: Connection closed - mismatched mod channel list
+[22Dec2024 23:19:06.270] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [elytraslot:main] rejected their client side version number
+[22Dec2024 23:19:06.271] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Dec2024 23:19:06.298] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f57f546[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:49946) lost connection: Connection closed - mismatched mod channel list
+[22Dec2024 23:19:08.718] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [elytraslot:main] rejected their client side version number
+[22Dec2024 23:19:08.718] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Dec2024 23:19:08.811] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@243a7aec[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:49947) lost connection: Connection closed - mismatched mod channel list
+[22Dec2024 23:20:14.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:minerales:M:224:66:-106:15:false:0:Internal-overworld-waypoints
+[22Dec2024 23:20:18.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> t
+[22Dec2024 23:20:24.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> xaero-waypoint:Base Provisional:B:0:63:6:6:false:0:Internal-overworld-waypoints
+[22Dec2024 23:21:01.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 0.500000, 63.500000, 6.500000]
+[22Dec2024 23:21:04.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[22Dec2024 23:21:21.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Dec2024 23:21:51.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[22Dec2024 23:22:10.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3994ms or 79 ticks behind
+[22Dec2024 23:22:42.361] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [elytraslot:main] rejected their client side version number
+[22Dec2024 23:22:42.363] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Dec2024 23:22:42.381] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@23828e39[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:50642) lost connection: Connection closed - mismatched mod channel list
+[22Dec2024 23:22:58.195] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [elytraslot:main] rejected their client side version number
+[22Dec2024 23:22:58.196] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[22Dec2024 23:22:58.235] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e9130e0[id=<null>,name=S3rg10f41,properties={},legacy=false] (/100.116.129.4:50648) lost connection: Connection closed - mismatched mod channel list
+[22Dec2024 23:24:11.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2693ms or 53 ticks behind
+[22Dec2024 23:24:31.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4753ms or 95 ticks behind
+[22Dec2024 23:24:34.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to Ferj2202]
