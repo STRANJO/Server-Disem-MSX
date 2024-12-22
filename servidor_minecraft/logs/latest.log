@@ -459,3 +459,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'pharyosis_parasites:leathery_
 [22Dec2024 22:53:18.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1, y=62, z=5}
 [22Dec2024 22:53:38.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made Ferj2202 a server operator]
 [22Dec2024 22:54:20.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Base Provisional:B:0:63:6:6:false:0:Internal-overworld-waypoints
+[22Dec2024 22:54:54.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Getting an Upgrade]
+[22Dec2024 22:56:31.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Stone Age]
+[22Dec2024 22:57:13.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=64, z=-28} BlockPos{x=98, y=62, z=-29}
+[22Dec2024 22:58:24.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[22Dec2024 22:58:46.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Dec2024 22:59:13.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:minerales:M:224:66:-106:15:false:0:Internal-overworld-waypoints
+[22Dec2024 22:59:25.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Liraanto]
+[22Dec2024 22:59:30.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 224.500000, 66.500000, -105.500000]
+[22Dec2024 23:00:06.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=184, y=72, z=-198} BlockPos{x=187, y=71, z=-199}
+[22Dec2024 23:00:08.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Phayriosis Parasite Infection]
+[22Dec2024 23:00:12.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=179, y=73, z=-207} BlockPos{x=178, y=71, z=-207}
+[22Dec2024 23:00:31.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 0.500000, 63.500000, 6.500000]
+[22Dec2024 23:03:57.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 0.500000, 63.500000, 6.500000]
+[22Dec2024 23:05:05.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Let's Get To Work]
+[22Dec2024 23:05:56.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[22Dec2024 23:05:56.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[22Dec2024 23:08:34.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Mutual Aid]
+[22Dec2024 23:09:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Knowledge of Death]
+[22Dec2024 23:09:26.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [A Strange Grave Dust]
+[22Dec2024 23:09:50.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Acquire Hardware]
+[22Dec2024 23:10:52.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Beast Slayer]
+[22Dec2024 23:12:18.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:56688] logged in with entity id 16503 at (-1.5, 74.0, -1.5)
+[22Dec2024 23:12:18.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[22Dec2024 23:12:19.022] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[22Dec2024 23:12:19.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Christmas]
+[22Dec2024 23:12:34.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 melted
+[22Dec2024 23:12:34.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Your First Grave]
+[22Dec2024 23:12:34.902] [Server thread/INFO] [tombstone/]: The player Ferj2202 has successfully been saved
+[22Dec2024 23:12:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [The Most Useful Key]
+[22Dec2024 23:12:39.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [Here They Come]
+[22Dec2024 23:12:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Made antiqueito a server operator]
+[22Dec2024 23:12:45.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has reached the goal [A Fast Comeback]
+[22Dec2024 23:13:25.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was slain by STRANJO
+[22Dec2024 23:13:25.349] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[22Dec2024 23:13:25.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> -
+[22Dec2024 23:13:28.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> niga
+[22Dec2024 23:13:39.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> niga
+[22Dec2024 23:13:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> nigger
+[22Dec2024 23:13:41.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> nigger
+[22Dec2024 23:13:42.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <antiqueito> niiggeer
+[22Dec2024 23:13:46.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has reached the goal [Here They Come]
