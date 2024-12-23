@@ -37,6 +37,7 @@
       "minecraft:river": "2024-12-22 23:23:11 +0000",
       "minecraft:forest": "2024-12-22 20:42:01 +0000",
       "minecraft:lush_caves": "2024-12-23 01:39:18 +0000",
+      "minecraft:windswept_forest": "2024-12-23 16:03:52 +0000",
       "minecraft:windswept_savanna": "2024-12-22 23:17:27 +0000",
       "minecraft:flower_forest": "2024-12-23 00:49:48 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-22 20:27:15 +0000",
@@ -518,8 +519,11 @@
       "minecraft:spider": "2024-12-22 23:09:11 +0000",
       "minecraft:piglin_brute": "2024-12-23 01:19:08 +0000",
       "minecraft:creeper": "2024-12-23 01:32:28 +0000",
+      "minecraft:phantom": "2024-12-23 16:00:05 +0000",
+      "minecraft:witch": "2024-12-23 15:58:16 +0000",
       "minecraft:husk": "2024-12-23 00:46:53 +0000",
-      "minecraft:zombie": "2024-12-22 20:28:51 +0000"
+      "minecraft:zombie": "2024-12-22 20:28:51 +0000",
+      "minecraft:drowned": "2024-12-23 16:01:37 +0000"
     },
     "done": false
   },
@@ -3450,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-23 16:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mangrove_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2024-12-23 15:30:57 +0000"
@@ -3468,6 +3478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 16:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-23 14:53:58 +0000"
@@ -3480,9 +3496,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 15:58:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flax_block": {
     "criteria": {
       "has_flax": "2024-12-23 14:42:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-12-23 15:58:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_sugar": "2024-12-23 15:58:19 +0000"
     },
     "done": true
   },
@@ -3497,6 +3531,12 @@
       "has_flax": "2024-12-23 14:42:22 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-23 16:00:05 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/rope": {
     "criteria": {

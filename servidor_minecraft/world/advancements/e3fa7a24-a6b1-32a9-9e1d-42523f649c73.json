@@ -711,12 +711,6 @@
     },
     "done": true
   },
-  "phayriosis:fleeeeeesh": {
-    "criteria": {
-      "fleeeeeesh_0": "2024-12-22 22:47:03 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-22 22:52:12 +0000"
@@ -732,12 +726,6 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-22 22:52:16 +0000"
-    },
-    "done": true
-  },
-  "phayriosis:phayriosis_parasite_infection": {
-    "criteria": {
-      "phayriosis_parasite_infection_0": "2024-12-22 22:53:14 +0000"
     },
     "done": true
   },
@@ -2191,12 +2179,6 @@
     },
     "done": true
   },
-  "phayriosis:mass_blood_loss": {
-    "criteria": {
-      "mass_blood_loss_0": "2024-12-23 01:28:54 +0000"
-    },
-    "done": true
-  },
   "wool_collection:recipes/building_blocks/light_gray_wool_stairs": {
     "criteria": {
       "has_trigger_item": "2024-12-23 01:33:28 +0000"
@@ -2995,51 +2977,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2024-12-23 03:53:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2024-12-23 03:53:01 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/cog_block": {
-    "criteria": {
-      "has_redstone_block": "2024-12-23 03:51:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-23 03:51:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-23 03:50:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2024-12-23 03:53:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-23 03:50:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2024-12-23 03:53:01 +0000"
     },
     "done": true
   },
@@ -3064,6 +3010,42 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-23 03:50:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2024-12-23 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-23 03:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-23 03:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-23 03:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-23 03:53:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-23 03:53:01 +0000"
     },
     "done": true
   },
