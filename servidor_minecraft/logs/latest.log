@@ -426,3 +426,48 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Dec2024 15:47:16.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [23Dec2024 15:47:36.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [23Dec2024 15:47:56.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[23Dec2024 15:48:17.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5644ms or 112 ticks behind
+[23Dec2024 15:48:37.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5123ms or 102 ticks behind
+[23Dec2024 15:49:09.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[23Dec2024 15:49:28.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Dec2024 15:49:45.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> oe ya hice la mesa de encantamientos
+[23Dec2024 15:49:47.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3786ms or 75 ticks behind
+[23Dec2024 15:49:49.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> pero no la he puesto aún
+[23Dec2024 15:49:50.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <S3rg10f41> oe
+[23Dec2024 15:49:54.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> dle dle
+[23Dec2024 15:49:57.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> tenemos q hacer las bibliotecas
+[23Dec2024 15:49:58.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <S3rg10f41> miren
+[23Dec2024 15:50:06.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4083ms or 81 ticks behind
+[23Dec2024 15:50:12.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> q
+[23Dec2024 15:50:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <S3rg10f41> tepeate
+[23Dec2024 15:50:27.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5961ms or 119 ticks behind
+[23Dec2024 15:50:29.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> calmao
+[23Dec2024 15:50:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to S3rg10f41]
+[23Dec2024 15:50:59.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 344.500000, 63.500000, -270.500000]
+[23Dec2024 15:51:41.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 has made the advancement [Smooooooooothened sword]
+[23Dec2024 15:52:22.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [The Lighthouse]
+[23Dec2024 15:52:33.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 has made the advancement [Acquire Hardware]
+[23Dec2024 15:52:36.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Dec2024 15:52:48.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 has made the advancement [Let's Get To Work]
+[23Dec2024 15:54:17.258] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9828, l='ServerLevel[world]', x=411.13, y=20.00, z=-138.77, removed=DISCARDED]
+[23Dec2024 15:55:13.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 has made the advancement [Isn't It Iron Pick]
+[23Dec2024 15:56:03.307] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=154, y=-27, z=-351}
+[23Dec2024 15:56:03.309] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=154, y=-27, z=-349}
+[23Dec2024 15:56:48.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [S3rg10f41: Teleported S3rg10f41 to STRANJO]
+[23Dec2024 15:57:05.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 has made the advancement [Monster Hunter]
+[23Dec2024 15:57:30.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <S3rg10f41> esta herobrine aca
+[23Dec2024 15:57:35.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> si
+[23Dec2024 15:57:40.637] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:57:50.443] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1895, l='ServerLevel[world]', x=344.63, y=24.00, z=-114.88, removed=DISCARDED]
+[23Dec2024 15:57:52.640] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/9828, l='ServerLevel[world]', x=411.13, y=20.00, z=-138.77, removed=DISCARDED]
+[23Dec2024 15:58:08.880] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1900, l='ServerLevel[world]', x=391.57, y=-8.00, z=-112.08, removed=DISCARDED]
+[23Dec2024 15:58:13.379] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Dec2024 15:58:16.125] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1900, l='ServerLevel[world]', x=391.57, y=-8.00, z=-112.08, removed=DISCARDED]
+[23Dec2024 15:58:16.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Ambush]
+[23Dec2024 15:58:20.098] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-68, y=-14, z=-351}
+[23Dec2024 15:58:26.885] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-87, y=-14, z=-413}
+[23Dec2024 15:58:27.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 was blown up by Creeper
+[23Dec2024 15:58:27.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 has made the advancement [Your First Grave]
+[23Dec2024 15:58:27.132] [Server thread/INFO] [tombstone/]: The player S3rg10f41 has successfully been saved
+[23Dec2024 15:58:27.230] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:58:28.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 has made the advancement [The Most Useful Key]
