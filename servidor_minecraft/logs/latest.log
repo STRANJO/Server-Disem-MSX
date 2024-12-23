@@ -873,3 +873,265 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [23Dec2024 19:03:19.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10678ms or 213 ticks behind
 [23Dec2024 19:03:42.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7728ms or 154 ticks behind
 [23Dec2024 19:04:07.400] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9954ms or 199 ticks behind
+[23Dec2024 19:04:42.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20099ms or 401 ticks behind
+[23Dec2024 19:05:33.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36483ms or 729 ticks behind
+[23Dec2024 19:06:03.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14271ms or 285 ticks behind
+[23Dec2024 19:06:09.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 0.500000, 234.500000, 132.500000]
+[23Dec2024 19:06:24.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6224ms or 124 ticks behind
+[23Dec2024 19:06:42.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[23Dec2024 19:07:03.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5904ms or 118 ticks behind
+[23Dec2024 19:07:07.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Amateur Archaeologist]
+[23Dec2024 19:07:20.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[23Dec2024 19:07:41.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito moved too quickly! 0.21107865929871572,-11.21782377067698,1.363568329050878
+[23Dec2024 19:07:42.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 19:07:51.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported antiqueito to Ferj2202]
+[23Dec2024 19:07:53.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported antiqueito to STRANJO]
+[23Dec2024 19:07:59.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
+[23Dec2024 19:08:16.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[23Dec2024 19:08:53.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Dec2024 19:09:13.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[23Dec2024 19:09:30.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[23Dec2024 19:09:51.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[23Dec2024 19:10:10.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Dec2024 19:11:05.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[23Dec2024 19:11:22.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[23Dec2024 19:11:41.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4288ms or 85 ticks behind
+[23Dec2024 19:12:08.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[23Dec2024 19:12:30.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[23Dec2024 19:12:36.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
+[23Dec2024 19:12:36.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
+[23Dec2024 19:13:38.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 7.500000, 71.500000, 122.500000]
+[23Dec2024 19:13:45.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Strong or Careful]
+[23Dec2024 19:13:45.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO died
+[23Dec2024 19:13:45.668] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[23Dec2024 19:13:55.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 13.500000, 69.500000, 125.500000]
+[23Dec2024 19:13:57.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[23Dec2024 19:14:17.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[23Dec2024 19:14:23.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1135.500000, 92.500000, 694.500000]
+[23Dec2024 19:14:24.097] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:24.099] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:24.100] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:24.137] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3793, l='ServerLevel[world]', x=1134.57, y=37.00, z=715.88, removed=DISCARDED]
+[23Dec2024 19:14:24.332] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:24.475] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:24.708] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:24.746] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:24.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:24.748] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:24.806] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3802, l='ServerLevel[world]', x=1145.74, y=38.00, z=679.62, removed=DISCARDED]
+[23Dec2024 19:14:24.807] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3805, l='ServerLevel[world]', x=1156.39, y=32.00, z=729.15, removed=DISCARDED]
+[23Dec2024 19:14:24.809] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3810, l='ServerLevel[world]', x=1102.54, y=27.00, z=661.13, removed=DISCARDED]
+[23Dec2024 19:14:24.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:24.818] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:24.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:24.820] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:bulb
+[23Dec2024 19:14:24.820] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:24.856] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3815, l='ServerLevel[world]', x=1093.13, y=48.00, z=690.13, removed=DISCARDED]
+[23Dec2024 19:14:24.858] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3816, l='ServerLevel[world]', x=1091.94, y=48.00, z=695.03, removed=DISCARDED]
+[23Dec2024 19:14:24.866] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3817, l='ServerLevel[world]', x=1095.44, y=36.00, z=706.63, removed=DISCARDED]
+[23Dec2024 19:14:24.866] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3818, l='ServerLevel[world]', x=1089.47, y=55.00, z=716.13, removed=DISCARDED]
+[23Dec2024 19:14:25.067] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:25.160] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3836, l='ServerLevel[world]', x=1106.97, y=30.00, z=647.88, removed=DISCARDED]
+[23Dec2024 19:14:25.210] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:25.317] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:25.318] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:25.319] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:25.319] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:25.320] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:25.348] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:25.350] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:25.358] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:25.470] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3843, l='ServerLevel[world]', x=1086.88, y=62.00, z=693.05, removed=DISCARDED]
+[23Dec2024 19:14:25.471] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3846, l='ServerLevel[world]', x=1078.12, y=64.00, z=651.01, removed=DISCARDED]
+[23Dec2024 19:14:25.473] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3850, l='ServerLevel[world]', x=1069.49, y=64.00, z=693.53, removed=DISCARDED]
+[23Dec2024 19:14:25.515] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:phayrectix
+[23Dec2024 19:14:25.522] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:25.607] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3861, l='ServerLevel[world]', x=1126.29, y=72.00, z=761.81, removed=DISCARDED]
+[23Dec2024 19:14:25.727] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:25.827] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:25.875] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:25.875] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:26.016] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3873, l='ServerLevel[world]', x=1125.67, y=30.06, z=635.41, removed=DISCARDED]
+[23Dec2024 19:14:26.023] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3874, l='ServerLevel[world]', x=1128.38, y=29.00, z=632.88, removed=DISCARDED]
+[23Dec2024 19:14:26.024] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3875, l='ServerLevel[world]', x=1162.88, y=13.00, z=625.97, removed=DISCARDED]
+[23Dec2024 19:14:26.031] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3887, l='ServerLevel[world]', x=1165.88, y=17.00, z=628.50, removed=DISCARDED]
+[23Dec2024 19:14:26.033] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3889, l='ServerLevel[world]', x=1101.76, y=24.00, z=639.02, removed=DISCARDED]
+[23Dec2024 19:14:26.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3893, l='ServerLevel[world]', x=1195.86, y=17.00, z=645.60, removed=DISCARDED]
+[23Dec2024 19:14:26.037] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3894, l='ServerLevel[world]', x=1196.82, y=17.00, z=645.88, removed=DISCARDED]
+[23Dec2024 19:14:26.038] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3895, l='ServerLevel[world]', x=1197.13, y=17.00, z=644.84, removed=DISCARDED]
+[23Dec2024 19:14:26.080] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:26.081] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:29.536] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:29.545] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:29.662] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3916, l='ServerLevel[world]', x=1165.26, y=2.00, z=615.86, removed=DISCARDED]
+[23Dec2024 19:14:31.493] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:31.650] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:31.650] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:31.827] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:31.827] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:32.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:32.151] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:32.680] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:32.681] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:32.740] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:33.601] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:33.605] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:33.680] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:33.684] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:33.684] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:33.685] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:33.685] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:33.701] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:41.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 1204.500000, 73.500000, 381.500000]
+[23Dec2024 19:14:42.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 1.5661217713809492,-10.16706724457589,3.567047965603706
+[23Dec2024 19:14:42.565] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:42.669] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:42.680] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:42.680] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:42.680] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:42.681] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:42.681] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:42.681] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:42.681] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:42.815] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:42.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:scent_spewer
+[23Dec2024 19:14:42.819] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.274] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4026, l='ServerLevel[world]', x=1176.68, y=-20.00, z=376.14, removed=DISCARDED]
+[23Dec2024 19:14:43.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO fell from a high place
+[23Dec2024 19:14:43.463] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[23Dec2024 19:14:43.475] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.590] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.590] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.591] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.598] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.599] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.600] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.601] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.601] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.601] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.602] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.611] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.612] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.614] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.617] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.618] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.618] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.619] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.619] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.620] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.626] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:43.628] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:scent_spewer
+[23Dec2024 19:14:43.749] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4083, l='ServerLevel[world]', x=1212.43, y=34.00, z=325.71, removed=DISCARDED]
+[23Dec2024 19:14:43.751] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4085, l='ServerLevel[world]', x=1226.67, y=36.00, z=326.90, removed=DISCARDED]
+[23Dec2024 19:14:43.753] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4086, l='ServerLevel[world]', x=1229.60, y=36.00, z=329.27, removed=DISCARDED]
+[23Dec2024 19:14:43.754] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4087, l='ServerLevel[world]', x=1226.42, y=35.00, z=328.33, removed=DISCARDED]
+[23Dec2024 19:14:43.755] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4088, l='ServerLevel[world]', x=1228.37, y=36.00, z=323.91, removed=DISCARDED]
+[23Dec2024 19:14:43.798] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.817] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.818] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:43.978] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:44.229] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4102, l='ServerLevel[world]', x=1140.25, y=45.00, z=369.68, removed=DISCARDED]
+[23Dec2024 19:14:44.974] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:44.975] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:44.976] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:45.031] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4110, l='ServerLevel[world]', x=1194.88, y=25.00, z=315.58, removed=DISCARDED]
+[23Dec2024 19:14:45.032] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4116, l='ServerLevel[world]', x=1237.75, y=-33.00, z=318.53, removed=DISCARDED]
+[23Dec2024 19:14:45.033] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4119, l='ServerLevel[world]', x=1263.55, y=-11.43, z=308.64, removed=DISCARDED]
+[23Dec2024 19:14:45.034] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4123, l='ServerLevel[world]', x=1273.04, y=32.00, z=347.59, removed=DISCARDED]
+[23Dec2024 19:14:45.084] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:45.084] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:45.085] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:45.085] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:45.086] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:45.182] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:45.183] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:45.205] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:45.211] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:45.214] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:45.222] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:45.367] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:phayrectix
+[23Dec2024 19:14:45.594] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4216, l='ServerLevel[world]', x=1290.84, y=-40.00, z=383.94, removed=DISCARDED]
+[23Dec2024 19:14:45.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to Liraanto]
+[23Dec2024 19:14:45.803] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:phayrectix
+[23Dec2024 19:14:46.365] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4088, l='ServerLevel[world]', x=1228.37, y=36.00, z=323.91, removed=DISCARDED]
+[23Dec2024 19:14:46.368] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4087, l='ServerLevel[world]', x=1226.42, y=35.00, z=328.33, removed=DISCARDED]
+[23Dec2024 19:14:46.369] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4086, l='ServerLevel[world]', x=1229.60, y=36.00, z=329.27, removed=DISCARDED]
+[23Dec2024 19:14:46.371] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4083, l='ServerLevel[world]', x=1212.43, y=34.00, z=325.71, removed=DISCARDED]
+[23Dec2024 19:14:46.373] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4216, l='ServerLevel[world]', x=1290.84, y=-40.00, z=383.94, removed=DISCARDED]
+[23Dec2024 19:14:46.374] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4026, l='ServerLevel[world]', x=1176.68, y=-20.00, z=376.14, removed=DISCARDED]
+[23Dec2024 19:14:46.375] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4102, l='ServerLevel[world]', x=1140.25, y=45.00, z=369.68, removed=DISCARDED]
+[23Dec2024 19:14:46.381] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4110, l='ServerLevel[world]', x=1194.88, y=25.00, z=315.58, removed=DISCARDED]
+[23Dec2024 19:14:46.388] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4085, l='ServerLevel[world]', x=1226.67, y=36.00, z=326.90, removed=DISCARDED]
+[23Dec2024 19:14:46.390] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4123, l='ServerLevel[world]', x=1273.04, y=32.00, z=347.59, removed=DISCARDED]
+[23Dec2024 19:14:46.392] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4116, l='ServerLevel[world]', x=1237.75, y=-33.00, z=318.53, removed=DISCARDED]
+[23Dec2024 19:14:46.400] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4119, l='ServerLevel[world]', x=1263.55, y=-11.43, z=308.64, removed=DISCARDED]
+[23Dec2024 19:14:47.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1125.500000, 64.500000, 716.500000]
+[23Dec2024 19:14:48.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3889, l='ServerLevel[world]', x=1101.76, y=24.00, z=639.02, removed=DISCARDED]
+[23Dec2024 19:14:48.042] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3836, l='ServerLevel[world]', x=1106.97, y=30.00, z=647.88, removed=DISCARDED]
+[23Dec2024 19:14:48.043] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3815, l='ServerLevel[world]', x=1093.13, y=48.00, z=690.13, removed=DISCARDED]
+[23Dec2024 19:14:48.044] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3816, l='ServerLevel[world]', x=1091.94, y=48.00, z=695.03, removed=DISCARDED]
+[23Dec2024 19:14:48.045] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3810, l='ServerLevel[world]', x=1102.54, y=27.00, z=661.13, removed=DISCARDED]
+[23Dec2024 19:14:48.046] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3843, l='ServerLevel[world]', x=1086.88, y=62.00, z=693.05, removed=DISCARDED]
+[23Dec2024 19:14:48.047] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3873, l='ServerLevel[world]', x=1125.67, y=30.06, z=635.41, removed=DISCARDED]
+[23Dec2024 19:14:48.048] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3850, l='ServerLevel[world]', x=1069.49, y=64.00, z=693.53, removed=DISCARDED]
+[23Dec2024 19:14:48.048] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3802, l='ServerLevel[world]', x=1145.74, y=38.00, z=679.62, removed=DISCARDED]
+[23Dec2024 19:14:48.049] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3818, l='ServerLevel[world]', x=1089.47, y=55.00, z=716.13, removed=DISCARDED]
+[23Dec2024 19:14:48.050] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3817, l='ServerLevel[world]', x=1095.44, y=36.00, z=706.63, removed=DISCARDED]
+[23Dec2024 19:14:48.051] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3874, l='ServerLevel[world]', x=1128.38, y=29.00, z=632.88, removed=DISCARDED]
+[23Dec2024 19:14:48.052] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3793, l='ServerLevel[world]', x=1134.57, y=37.00, z=715.88, removed=DISCARDED]
+[23Dec2024 19:14:48.053] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3861, l='ServerLevel[world]', x=1126.29, y=72.00, z=761.81, removed=DISCARDED]
+[23Dec2024 19:14:48.055] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3805, l='ServerLevel[world]', x=1156.39, y=32.00, z=729.15, removed=DISCARDED]
+[23Dec2024 19:14:48.056] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3846, l='ServerLevel[world]', x=1078.12, y=64.00, z=651.01, removed=DISCARDED]
+[23Dec2024 19:14:49.530] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3802, l='ServerLevel[world]', x=1145.74, y=38.00, z=679.62, removed=DISCARDED]
+[23Dec2024 19:14:49.531] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3805, l='ServerLevel[world]', x=1156.39, y=32.00, z=729.15, removed=DISCARDED]
+[23Dec2024 19:14:49.536] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3817, l='ServerLevel[world]', x=1095.44, y=36.00, z=706.63, removed=DISCARDED]
+[23Dec2024 19:14:49.536] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3818, l='ServerLevel[world]', x=1089.47, y=55.00, z=716.13, removed=DISCARDED]
+[23Dec2024 19:14:49.537] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3815, l='ServerLevel[world]', x=1093.13, y=48.00, z=690.13, removed=DISCARDED]
+[23Dec2024 19:14:49.537] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3816, l='ServerLevel[world]', x=1091.94, y=48.00, z=695.03, removed=DISCARDED]
+[23Dec2024 19:14:49.556] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3843, l='ServerLevel[world]', x=1086.88, y=62.00, z=693.05, removed=DISCARDED]
+[23Dec2024 19:14:50.576] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3861, l='ServerLevel[world]', x=1126.29, y=72.00, z=761.81, removed=DISCARDED]
+[23Dec2024 19:14:50.580] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3810, l='ServerLevel[world]', x=1102.54, y=27.00, z=661.13, removed=DISCARDED]
+[23Dec2024 19:14:50.730] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3836, l='ServerLevel[world]', x=1106.97, y=30.00, z=647.88, removed=DISCARDED]
+[23Dec2024 19:14:51.155] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3846, l='ServerLevel[world]', x=1078.12, y=64.00, z=651.01, removed=DISCARDED]
+[23Dec2024 19:14:51.162] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3850, l='ServerLevel[world]', x=1069.49, y=64.00, z=693.53, removed=DISCARDED]
+[23Dec2024 19:14:51.192] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:51.316] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3873, l='ServerLevel[world]', x=1125.67, y=30.06, z=635.41, removed=DISCARDED]
+[23Dec2024 19:14:51.317] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3874, l='ServerLevel[world]', x=1128.38, y=29.00, z=632.88, removed=DISCARDED]
+[23Dec2024 19:14:51.318] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3889, l='ServerLevel[world]', x=1101.76, y=24.00, z=639.02, removed=DISCARDED]
+[23Dec2024 19:14:51.333] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:51.338] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:51.339] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:51.341] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:14:51.341] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:51.347] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:51.501] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4483, l='ServerLevel[world]', x=1118.33, y=15.00, z=368.45, removed=DISCARDED]
+[23Dec2024 19:14:51.502] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4483, l='ServerLevel[world]', x=1118.33, y=15.00, z=368.45, removed=DISCARDED]
+[23Dec2024 19:14:51.503] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4485, l='ServerLevel[world]', x=1114.66, y=17.00, z=379.76, removed=DISCARDED]
+[23Dec2024 19:14:51.504] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4485, l='ServerLevel[world]', x=1114.66, y=17.00, z=379.76, removed=DISCARDED]
+[23Dec2024 19:14:53.578] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4132, l='ServerLevel[world]', x=1273.63, y=-11.42, z=307.76, removed=DISCARDED]
+[23Dec2024 19:14:53.586] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4157, l='ServerLevel[world]', x=1254.87, y=-14.00, z=291.74, removed=DISCARDED]
+[23Dec2024 19:14:53.606] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4155, l='ServerLevel[world]', x=1256.01, y=-14.00, z=292.01, removed=DISCARDED]
+[23Dec2024 19:14:56.038] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4155, l='ServerLevel[world]', x=1256.01, y=-14.00, z=292.01, removed=DISCARDED]
+[23Dec2024 19:14:59.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:14:59.568] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:15:04.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4624, l='ServerLevel[world]', x=1198.83, y=0.00, z=270.88, removed=DISCARDED]
+[23Dec2024 19:15:04.093] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4624, l='ServerLevel[world]', x=1198.83, y=0.00, z=270.88, removed=DISCARDED]
+[23Dec2024 19:15:04.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4629, l='ServerLevel[world]', x=1202.04, y=-1.00, z=267.81, removed=DISCARDED]
+[23Dec2024 19:15:04.096] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4629, l='ServerLevel[world]', x=1202.04, y=-1.00, z=267.81, removed=DISCARDED]
+[23Dec2024 19:15:04.115] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4119, l='ServerLevel[world]', x=1263.55, y=-11.43, z=308.64, removed=DISCARDED]
+[23Dec2024 19:15:05.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32247ms or 644 ticks behind
+[23Dec2024 19:15:05.321] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4619, l='ServerLevel[world]', x=1218.07, y=1.00, z=260.19, removed=DISCARDED]
+[23Dec2024 19:15:05.668] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4157, l='ServerLevel[world]', x=1254.87, y=-14.00, z=291.74, removed=DISCARDED]
+[23Dec2024 19:15:06.120] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4618, l='ServerLevel[world]', x=1217.04, y=1.00, z=256.47, removed=DISCARDED]
+[23Dec2024 19:15:09.890] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4157, l='ServerLevel[world]', x=1254.87, y=-14.00, z=291.74, removed=DISCARDED]
+[23Dec2024 19:15:11.623] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4619, l='ServerLevel[world]', x=1218.07, y=1.00, z=260.19, removed=DISCARDED]
+[23Dec2024 19:15:13.742] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 19:15:13.883] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4704, l='ServerLevel[world]', x=1218.37, y=1.00, z=254.58, removed=DISCARDED]
+[23Dec2024 19:15:13.884] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4706, l='ServerLevel[world]', x=1215.77, y=1.00, z=255.38, removed=DISCARDED]
+[23Dec2024 19:15:15.732] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4618, l='ServerLevel[world]', x=1217.04, y=1.00, z=256.47, removed=DISCARDED]
+[23Dec2024 19:15:15.894] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4706, l='ServerLevel[world]', x=1215.77, y=1.00, z=255.38, removed=DISCARDED]
+[23Dec2024 19:15:17.010] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4704, l='ServerLevel[world]', x=1218.37, y=1.00, z=254.58, removed=DISCARDED]
+[23Dec2024 19:15:20.790] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 19:15:44.480] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4083, l='ServerLevel[world]', x=1212.43, y=34.00, z=325.71, removed=DISCARDED]
+[23Dec2024 19:15:55.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35227ms or 704 ticks behind
