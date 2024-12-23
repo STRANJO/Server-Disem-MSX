@@ -1726,6 +1726,7 @@
       "cartographytable": "2024-12-23 02:26:37 +0000",
       "gardeningtable": "2024-12-22 23:59:37 +0000",
       "smoker": "2024-12-23 00:27:44 +0000",
+      "smithingtable": "2024-12-23 15:06:20 +0000",
       "blastfurnace": "2024-12-23 00:46:18 +0000",
       "stonecutter": "2024-12-22 23:59:28 +0000",
       "cauldron": "2024-12-23 00:00:11 +0000"
@@ -3424,9 +3425,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-23 15:06:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/doormat_2": {
     "criteria": {
       "forge:crops/flax": "2024-12-23 14:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-23 15:06:03 +0000"
     },
     "done": true
   },
