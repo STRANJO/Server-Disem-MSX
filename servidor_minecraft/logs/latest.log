@@ -520,3 +520,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'pharyosis_parasites:leathery_
 [23Dec2024 03:55:27.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5283ms or 105 ticks behind
 [23Dec2024 03:55:50.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8204ms or 164 ticks behind
 [23Dec2024 03:56:12.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7462ms or 149 ticks behind
+[23Dec2024 03:56:40.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12862ms or 257 ticks behind
+[23Dec2024 03:57:14.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Martute]
+[23Dec2024 03:57:16.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21019ms or 420 ticks behind
+[23Dec2024 03:57:51.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19315ms or 386 ticks behind
+[23Dec2024 03:58:11.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 moved too quickly! 8.120599151086935,2.747796659746271,-5.3430559850192765
+[23Dec2024 03:58:12.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Martute moved too quickly! -2.722809159560711,4.166109260938214,8.721690821239292
+[23Dec2024 03:58:42.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to Martute]
+[23Dec2024 03:59:05.576] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[23Dec2024 03:59:11.557] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[23Dec2024 03:59:12.142] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 1d0d6674-0bda-4662-9033-0c9dcedf252d
+[23Dec2024 03:59:12.193] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 3ad40830-f769-403d-829b-e6463839653a
+[23Dec2024 03:59:12.196] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Server-Disem-MSX/servidor_minecraft/./crash-reports/crash-2024-12-23_03.59.12-server.txt
+[23Dec2024 03:59:12.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported Liraanto to Ferj2202]
+[23Dec2024 03:59:12.266] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[23Dec2024 03:59:12.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2024 03:59:12.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2024 03:59:12.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Server closed
+[23Dec2024 03:59:12.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[23Dec2024 03:59:12.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Server closed
+[23Dec2024 03:59:12.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[23Dec2024 03:59:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2024 03:59:21.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
