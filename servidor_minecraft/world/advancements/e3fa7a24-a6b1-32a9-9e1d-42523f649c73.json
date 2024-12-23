@@ -6917,6 +6917,12 @@
     },
     "done": true
   },
+  "crystalcraft_unlimited_java:stronger_then_steel": {
+    "criteria": {
+      "stronger_then_steel_0": "2024-12-23 19:40:24 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge_stair": {
     "criteria": {
       "has_planks": "2024-12-23 19:04:00 +0000"
@@ -7013,6 +7019,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-23 19:37:48 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2024-12-23 19:04:02 +0000"
@@ -7076,6 +7088,12 @@
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2024-12-23 19:23:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-23 19:37:44 +0000"
     },
     "done": true
   },
@@ -7278,6 +7296,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-23 19:23:10 +0000"
+    },
+    "done": true
+  },
+  "crystalcraft_unlimited_java:the_colours_of_the_rainbow": {
+    "criteria": {
+      "the_colours_of_the_rainbow_0": "2024-12-23 19:33:00 +0000"
     },
     "done": true
   },
