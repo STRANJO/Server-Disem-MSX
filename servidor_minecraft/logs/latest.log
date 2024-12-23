@@ -737,3 +737,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Dec2024 17:11:41.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 0.500000, 234.500000, 132.500000]
 [23Dec2024 17:11:46.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
 [23Dec2024 17:11:46.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[23Dec2024 17:25:44.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferj2202[/100.95.118.74:64868] logged in with entity id 59682 at (2.006650949567862, 234.0, 135.8586028101316)
+[23Dec2024 17:25:44.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 joined the game
+[23Dec2024 17:25:45.027] [Server thread/INFO] [Jade/]: Syncing config to Ferj2202 (e6c88b6f-0d3a-32cd-ad32-b48cbc67b708)
+[23Dec2024 17:29:32.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 0.500000, 63.500000, 6.500000]
