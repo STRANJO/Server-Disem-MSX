@@ -36,7 +36,9 @@
       "minecraft:sunflower_plains": "2024-12-23 00:35:35 +0000",
       "minecraft:beach": "2024-12-23 00:40:22 +0000",
       "minecraft:river": "2024-12-22 22:58:09 +0000",
+      "minecraft:swamp": "2024-12-23 16:08:34 +0000",
       "minecraft:forest": "2024-12-22 22:57:05 +0000",
+      "minecraft:windswept_forest": "2024-12-23 16:14:21 +0000",
       "minecraft:ocean": "2024-12-23 00:40:42 +0000",
       "minecraft:windswept_savanna": "2024-12-23 00:24:51 +0000",
       "minecraft:flower_forest": "2024-12-23 00:42:48 +0000",
@@ -3082,6 +3084,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-23 03:53:01 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-23 16:10:17 +0000"
     },
     "done": true
   },
