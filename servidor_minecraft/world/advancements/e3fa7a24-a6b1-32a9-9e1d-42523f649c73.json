@@ -748,6 +748,7 @@
       "cooked_porkchop": "2024-12-23 00:42:43 +0000",
       "cooked_mutton": "2024-12-22 22:53:36 +0000",
       "sweet_berries": "2024-12-23 03:03:57 +0000",
+      "cooked_beef": "2024-12-23 16:15:48 +0000",
       "pumpkin_pie": "2024-12-23 01:39:00 +0000",
       "bread": "2024-12-23 00:24:41 +0000",
       "cooked_chicken": "2024-12-23 01:33:38 +0000",
@@ -3090,6 +3091,36 @@
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2024-12-23 16:10:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/doormat_2": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-23 16:23:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2024-12-23 16:23:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-23 16:17:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2024-12-23 16:23:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-23 16:23:41 +0000"
     },
     "done": true
   },

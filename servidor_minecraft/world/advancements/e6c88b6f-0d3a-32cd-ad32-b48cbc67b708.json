@@ -43,6 +43,7 @@
       "minecraft:forest": "2024-12-22 22:56:32 +0000",
       "minecraft:frozen_ocean": "2024-12-23 02:28:28 +0000",
       "minecraft:windswept_forest": "2024-12-23 15:43:51 +0000",
+      "minecraft:jungle": "2024-12-23 16:19:27 +0000",
       "minecraft:ocean": "2024-12-23 15:52:23 +0000",
       "minecraft:snowy_beach": "2024-12-23 02:28:25 +0000",
       "minecraft:windswept_savanna": "2024-12-22 23:18:26 +0000",
@@ -3186,6 +3187,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-23 15:56:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-23 16:21:21 +0000"
     },
     "done": true
   },

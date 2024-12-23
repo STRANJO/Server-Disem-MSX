@@ -589,3 +589,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Dec2024 16:12:08.507] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11608, l='ServerLevel[world]', x=-651.13, y=17.00, z=268.37, removed=DISCARDED]
 [23Dec2024 16:12:35.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
 [23Dec2024 16:14:27.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 0.500000, 234.500000, 132.500000]
+[23Dec2024 16:21:21.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 has made the advancement [Best Friends Forever]
+[23Dec2024 16:21:35.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 7.500000, 71.500000, 122.500000]
