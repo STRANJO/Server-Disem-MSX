@@ -264,3 +264,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Dec2024 14:47:26.643] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
 [23Dec2024 14:47:27.252] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
 [23Dec2024 14:47:27.254] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 14:53:58.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Hot Stuff]
+[23Dec2024 14:56:25.827] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/741, l='ServerLevel[world]', x=347.08, y=-38.00, z=234.83, removed=DISCARDED]

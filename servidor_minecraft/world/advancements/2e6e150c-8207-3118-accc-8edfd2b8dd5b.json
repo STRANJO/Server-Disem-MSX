@@ -3424,6 +3424,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-23 14:53:58 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flax_block": {
     "criteria": {
       "has_flax": "2024-12-23 14:42:22 +0000"
