@@ -275,3 +275,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Dec2024 15:04:53.376] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/741, l='ServerLevel[world]', x=347.08, y=-38.00, z=234.83, removed=DISCARDED]
 [23Dec2024 15:08:11.914] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/741, l='ServerLevel[world]', x=347.08, y=-38.00, z=234.83, removed=DISCARDED]
 [23Dec2024 15:11:11.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 0.500000, 234.500000, 132.500000]
+[23Dec2024 15:18:59.780] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-253, y=-42, z=-17}
+[23Dec2024 15:18:59.782] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-252, y=-42, z=-17}
