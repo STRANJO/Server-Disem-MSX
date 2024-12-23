@@ -3418,5 +3418,29 @@
     },
     "done": true
   },
+  "supplementaries:recipes/doormat_2": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-23 14:42:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flax_block": {
+    "criteria": {
+      "has_flax": "2024-12-23 14:42:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/strings": {
+    "criteria": {
+      "has_flax": "2024-12-23 14:42:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/rope": {
+    "criteria": {
+      "forge:crops/flax": "2024-12-23 14:42:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
