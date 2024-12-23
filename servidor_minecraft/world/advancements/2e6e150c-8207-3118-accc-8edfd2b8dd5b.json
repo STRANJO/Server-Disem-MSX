@@ -6441,6 +6441,12 @@
     },
     "done": true
   },
+  "crystalcraft_unlimited_java:stronger_then_steel": {
+    "criteria": {
+      "stronger_then_steel_0": "2024-12-23 20:04:21 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2024-12-23 19:09:12 +0000"
@@ -6780,6 +6786,12 @@
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-23 19:09:09 +0000"
+    },
+    "done": true
+  },
+  "crystalcraft_unlimited_java:iron_stick_advancement": {
+    "criteria": {
+      "iron_stick_advancement_0": "2024-12-23 20:06:28 +0000"
     },
     "done": true
   },

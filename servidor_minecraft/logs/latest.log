@@ -1708,3 +1708,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [23Dec2024 19:56:24.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 0.500000, 234.500000, 132.500000]
 [23Dec2024 19:56:25.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 0.500000, 234.500000, 132.500000]
 [23Dec2024 19:56:26.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Dec2024 20:04:21.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Stronger than Steel]
+[23Dec2024 20:05:25.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[23Dec2024 20:06:28.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Metal Pipe Falling ]
+[23Dec2024 20:06:46.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[23Dec2024 20:07:06.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2295ms or 45 ticks behind
+[23Dec2024 20:07:27.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[23Dec2024 20:07:54.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[23Dec2024 20:08:11.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
