@@ -5347,3 +5347,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Dec2024 18:11:41.812] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
 [23Dec2024 18:11:41.943] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
 [23Dec2024 18:11:41.958] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 18:11:58.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Liraanto to Ferj2202]
+[23Dec2024 18:12:00.427] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1502, l='ServerLevel[world]', x=546.13, y=-43.00, z=90.13, removed=DISCARDED]
+[23Dec2024 18:12:00.432] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1451, l='ServerLevel[world]', x=542.96, y=-22.00, z=99.79, removed=DISCARDED]
+[23Dec2024 18:12:00.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2648ms or 52 ticks behind
+[23Dec2024 18:12:07.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:12:07.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:12:09.567] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1502, l='ServerLevel[world]', x=546.13, y=-43.00, z=90.13, removed=DISCARDED]
+[23Dec2024 18:12:09.963] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1451, l='ServerLevel[world]', x=542.96, y=-22.00, z=99.79, removed=DISCARDED]
+[23Dec2024 18:12:20.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 0.500000, 234.500000, 132.500000]
+[23Dec2024 18:12:21.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ferj2202: Teleported Ferj2202 to 0.500000, 234.500000, 132.500000]
+[23Dec2024 18:12:29.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ferj2202 lost connection: Disconnected
+[23Dec2024 18:12:29.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 left the game
+[23Dec2024 18:13:21.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[23Dec2024 18:13:21.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[23Dec2024 18:13:24.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Dec2024 18:13:24.892] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[23Dec2024 18:13:24.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2024 18:13:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2024 18:13:24.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2024 18:13:25.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Dec2024 18:13:25.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Dec2024 18:13:25.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[23Dec2024 18:13:25.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Dec2024 18:13:25.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:13:25.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:13:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Dec2024 18:13:25.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Dec2024 18:13:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[23Dec2024 18:13:25.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Dec2024 18:13:25.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Dec2024 18:13:25.714] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
