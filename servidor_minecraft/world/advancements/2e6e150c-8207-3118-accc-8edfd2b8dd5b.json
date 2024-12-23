@@ -35,6 +35,7 @@
       "minecraft:birch_forest": "2024-12-23 02:14:45 +0000",
       "minecraft:beach": "2024-12-23 15:44:46 +0000",
       "minecraft:river": "2024-12-22 23:23:11 +0000",
+      "minecraft:snowy_taiga": "2024-12-23 19:15:08 +0000",
       "minecraft:swamp": "2024-12-23 16:07:02 +0000",
       "minecraft:forest": "2024-12-22 20:42:01 +0000",
       "minecraft:lush_caves": "2024-12-23 01:39:18 +0000",
@@ -6428,6 +6429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-23 19:15:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-23 19:09:12 +0000"
@@ -6608,6 +6615,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "orchard": "2024-12-23 19:21:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-23 19:09:09 +0000"
@@ -6653,6 +6666,12 @@
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-23 19:07:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-23 19:13:45 +0000"
     },
     "done": true
   },
@@ -6787,6 +6806,12 @@
       "has_planks": "2024-12-23 19:09:12 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "orchard": "2024-12-23 19:21:20 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/red_cooler": {
     "criteria": {
@@ -7133,6 +7158,12 @@
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2024-12-23 19:07:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-23 19:15:45 +0000"
     },
     "done": true
   },
