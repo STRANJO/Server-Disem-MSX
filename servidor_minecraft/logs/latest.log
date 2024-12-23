@@ -277,3 +277,152 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 [23Dec2024 15:11:11.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 0.500000, 234.500000, 132.500000]
 [23Dec2024 15:18:59.780] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-253, y=-42, z=-17}
 [23Dec2024 15:18:59.782] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-252, y=-42, z=-17}
+[23Dec2024 15:29:50.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 7.500000, 71.500000, 122.500000]
+[23Dec2024 15:30:46.731] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:primitive_mindless_creeper is
+[23Dec2024 15:30:46.732] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:infector is
+[23Dec2024 15:30:46.732] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:primitive_mindless_skeleton is
+[23Dec2024 15:30:46.733] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:torn is
+[23Dec2024 15:30:46.733] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:sensitive_antenna is
+[23Dec2024 15:30:46.734] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:sluggle_eggs is
+[23Dec2024 15:30:46.735] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:small_horn is
+[23Dec2024 15:30:46.735] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:boneshootsl is
+[23Dec2024 15:30:46.737] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json: Don't know what phayriosis:mound is
+[23Dec2024 15:30:46.759] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'phayriosis:phayriosis_parasite_infection' in progress file ./world/advancements/c7d14b9b-0042-3182-8dfa-f41240b3abc4.json - it doesn't exist anymore?
+[23Dec2024 15:30:46.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: S3rg10f41[/100.116.129.4:54364] logged in with entity id 8520 at (-27.69999998807907, 69.25220334025373, -27.482080629149294)
+[23Dec2024 15:30:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 joined the game
+[23Dec2024 15:30:46.931] [Server thread/INFO] [Jade/]: Syncing config to S3rg10f41 (c7d14b9b-0042-3182-8dfa-f41240b3abc4)
+[23Dec2024 15:33:57.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: S3rg10f41 lost connection: Disconnected
+[23Dec2024 15:33:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 left the game
+[23Dec2024 15:35:04.494] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:35:26.489] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:38:00.582] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:41:58.925] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:42:18.211] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:42:21.550] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:42:21.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:42:29.410] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:42:30.102] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:42:36.564] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:42:36.582] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:42:38.837] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:42:42.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:42:42.392] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:42:42.393] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:42:42.828] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:bark_sword is
+[23Dec2024 15:42:42.828] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:dense_flesh is
+[23Dec2024 15:42:42.829] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:bark_sword is
+[23Dec2024 15:42:42.829] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_hunter is
+[23Dec2024 15:42:42.829] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:mauler is
+[23Dec2024 15:42:42.830] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:torn is
+[23Dec2024 15:42:42.830] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_carrier is
+[23Dec2024 15:42:42.830] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_assimilated_door is
+[23Dec2024 15:42:42.831] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_mindless_creeper is
+[23Dec2024 15:42:42.831] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_assimilated_sheep is
+[23Dec2024 15:42:42.831] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:strangler is
+[23Dec2024 15:42:42.831] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_hatcher is
+[23Dec2024 15:42:42.832] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:spawn is
+[23Dec2024 15:42:42.833] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:slug is
+[23Dec2024 15:42:42.833] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_hunter is
+[23Dec2024 15:42:42.834] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:torn is
+[23Dec2024 15:42:42.834] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_mindless_creeper is
+[23Dec2024 15:42:42.834] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_assimilated_door is
+[23Dec2024 15:42:42.836] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:infector is
+[23Dec2024 15:42:42.836] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_assimilated_sheep is
+[23Dec2024 15:42:42.836] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primtive_assimilated_pig is
+[23Dec2024 15:42:42.837] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:bulb is
+[23Dec2024 15:42:42.837] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_assimilated_spider is
+[23Dec2024 15:42:42.837] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_mindless_skeleton is
+[23Dec2024 15:42:42.838] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:mauler is
+[23Dec2024 15:42:42.838] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitve_assimilated_human is
+[23Dec2024 15:42:42.838] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:overgrown_molar is
+[23Dec2024 15:42:42.839] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:sluggle_eggs is
+[23Dec2024 15:42:42.840] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:sensitive_antenna is
+[23Dec2024 15:42:42.840] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:small_horn is
+[23Dec2024 15:42:42.841] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:putrid_globy is
+[23Dec2024 15:42:42.841] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:crimsonscale is
+[23Dec2024 15:42:42.841] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:tough_flesh is
+[23Dec2024 15:42:42.843] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:carapace_fragment is
+[23Dec2024 15:42:42.844] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:assimilated_flesh is
+[23Dec2024 15:42:42.845] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:mound is
+[23Dec2024 15:42:42.845] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_remains is
+[23Dec2024 15:42:42.846] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_corpse is
+[23Dec2024 15:42:42.847] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:boneshootsl is
+[23Dec2024 15:42:42.847] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:dormantentanglingflesh is
+[23Dec2024 15:42:42.848] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:deployment_mound is
+[23Dec2024 15:42:42.848] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:flesh_sprouts is
+[23Dec2024 15:42:42.849] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:assimilated_corpse is
+[23Dec2024 15:42:42.850] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:entangling_flesh is
+[23Dec2024 15:42:42.850] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:teeth_sprouts is
+[23Dec2024 15:42:42.850] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:flesh_sprouts_2 is
+[23Dec2024 15:42:42.852] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:teeth_sprouts_2 is
+[23Dec2024 15:42:42.853] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:assimilated_remains is
+[23Dec2024 15:42:42.853] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:flesh_blossom is
+[23Dec2024 15:42:42.854] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:primitive_egg is
+[23Dec2024 15:42:42.854] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json: Don't know what phayriosis:flesh_block is
+[23Dec2024 15:42:42.888] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'phayriosis:phayriosis_parasite_infection' in progress file ./world/advancements/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json - it doesn't exist anymore?
+[23Dec2024 15:42:42.889] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'phayriosis:beast_slayer' in progress file ./world/advancements/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json - it doesn't exist anymore?
+[23Dec2024 15:42:42.890] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'phayriosis:fleeeeeesh' in progress file ./world/advancements/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json - it doesn't exist anymore?
+[23Dec2024 15:42:42.891] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'phayriosis:absorbing' in progress file ./world/advancements/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json - it doesn't exist anymore?
+[23Dec2024 15:42:42.892] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'phayriosis:mass_blood_loss' in progress file ./world/advancements/e6c88b6f-0d3a-32cd-ad32-b48cbc67b708.json - it doesn't exist anymore?
+[23Dec2024 15:42:42.911] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: phayriosis:dense_flesh_reciep removed now.
+[23Dec2024 15:42:42.914] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: phayriosis:dense_flesh_reciep removed now.
+[23Dec2024 15:42:42.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ferj2202[/100.95.118.74:64148] logged in with entity id 11555 at (-684.7082419952765, 122.0, 225.15448801632405)
+[23Dec2024 15:42:42.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ferj2202 joined the game
+[23Dec2024 15:42:42.963] [Server thread/INFO] [Jade/]: Syncing config to Ferj2202 (e6c88b6f-0d3a-32cd-ad32-b48cbc67b708)
+[23Dec2024 15:42:55.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 10.031143998621275,-0.03363195835876098,0.48288852229081414
+[23Dec2024 15:42:55.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12850ms or 257 ticks behind
+[23Dec2024 15:43:00.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> jelou
+[23Dec2024 15:43:02.606] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:02.607] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:02.608] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:02.640] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11604, l='ServerLevel[world]', x=-665.08, y=-8.00, z=263.13, removed=DISCARDED]
+[23Dec2024 15:43:03.698] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:03.700] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:03.700] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:03.701] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:03.704] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:primitive_assimilated_fish
+[23Dec2024 15:43:03.704] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:primitive_assimilated_fish
+[23Dec2024 15:43:03.707] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:primitive_assimilated_fish
+[23Dec2024 15:43:03.709] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:primitive_mindless_skeleton
+[23Dec2024 15:43:03.710] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:primitive_mindless_skeleton
+[23Dec2024 15:43:03.713] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:03.714] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:03.714] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:43:03.715] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:03.749] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/11608, l='ServerLevel[world]', x=-651.13, y=17.00, z=268.37, removed=DISCARDED]
+[23Dec2024 15:43:04.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ferj2202> voy en un ratito al ds
+[23Dec2024 15:43:05.445] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:05.445] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:05.642] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> ola
+[23Dec2024 15:43:06.394] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:43:06.395] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:08.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> oka
+[23Dec2024 15:43:26.346] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:converted_squid
+[23Dec2024 15:43:26.347] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:converted_squid
+[23Dec2024 15:43:27.120] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:27.123] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:27.123] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:27.123] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:primitive_mindless_skeleton
+[23Dec2024 15:43:27.124] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:primitive_mindless_skeleton
+[23Dec2024 15:43:27.124] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:27.939] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:33.982] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:34.056] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:infector
+[23Dec2024 15:43:34.057] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:primitive_mindless_skeleton
+[23Dec2024 15:43:39.501] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:39.502] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:39.503] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:slug
+[23Dec2024 15:43:39.503] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id phayriosis:spawn
+[23Dec2024 15:43:57.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: S3rg10f41[/100.116.129.4:56414] logged in with entity id 12050 at (22.66657507540474, 71.0, -53.34521331388313)
+[23Dec2024 15:43:57.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: S3rg10f41 joined the game
+[23Dec2024 15:43:57.362] [Server thread/INFO] [Jade/]: Syncing config to S3rg10f41 (c7d14b9b-0042-3182-8dfa-f41240b3abc4)
+[23Dec2024 15:44:23.438] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1895, l='ServerLevel[world]', x=344.63, y=24.00, z=-114.88, removed=DISCARDED]
+[23Dec2024 15:44:38.537] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=392, y=-44, z=-349}
+[23Dec2024 15:45:42.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Dec2024 15:46:02.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[23Dec2024 15:46:39.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Dec2024 15:46:56.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[23Dec2024 15:47:16.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23Dec2024 15:47:36.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Dec2024 15:47:56.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
