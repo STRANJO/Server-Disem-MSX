@@ -1589,6 +1589,7 @@
       "minecraft:skeleton": "2024-12-23 01:42:20 +0000",
       "minecraft:piglin_brute": "2024-12-23 01:20:12 +0000",
       "minecraft:spider": "2024-12-23 16:49:23 +0000",
+      "minecraft:creeper": "2024-12-23 19:52:44 +0000",
       "minecraft:witch": "2024-12-23 01:03:12 +0000",
       "minecraft:husk": "2024-12-23 00:53:54 +0000",
       "minecraft:zombie": "2024-12-23 00:29:25 +0000"
@@ -6959,6 +6960,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 19:44:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_granite_bridge": {
     "criteria": {
       "has_planks": "2024-12-23 19:04:00 +0000"
@@ -7106,6 +7113,12 @@
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2024-12-23 19:10:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-23 19:44:50 +0000"
     },
     "done": true
   },

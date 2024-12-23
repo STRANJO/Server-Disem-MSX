@@ -6363,6 +6363,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2024-12-23 19:44:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2024-12-23 19:09:12 +0000"
@@ -6759,6 +6765,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-23 19:44:39 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_cooler": {
     "criteria": {
       "has_chest": "2024-12-23 19:35:59 +0000"
@@ -7079,6 +7091,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "rocky_shrubland": "2024-12-23 19:55:02 +0000",
+      "maple_woods": "2024-12-23 19:56:03 +0000",
       "orchard": "2024-12-23 19:21:20 +0000"
     },
     "done": false
