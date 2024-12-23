@@ -3106,6 +3106,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2024-12-23 16:27:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-23 16:17:14 +0000"
@@ -3121,6 +3127,12 @@
   "supplementaries:recipes/rope": {
     "criteria": {
       "forge:crops/flax": "2024-12-23 16:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-23 16:27:13 +0000"
     },
     "done": true
   },
