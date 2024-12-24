@@ -1102,3 +1102,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [24Dec2024 04:24:03.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=635, y=105, z=-357} BlockPos{x=636, y=104, z=-355}
 [24Dec2024 04:27:17.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
 [24Dec2024 04:27:17.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[24Dec2024 04:30:01.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Set the weather to clear]
+[24Dec2024 04:30:35.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has reached the goal [Strong or Careful]
+[24Dec2024 04:30:35.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Jorogumo
+[24Dec2024 04:30:35.084] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[24Dec2024 04:30:41.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 674.500000, 108.500000, -349.500000]
+[24Dec2024 04:31:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Set the time to 1000]
+[24Dec2024 04:37:51.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicaexactas lost connection: Disconnected
+[24Dec2024 04:37:51.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas left the game

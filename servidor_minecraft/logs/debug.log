@@ -11424,3 +11424,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [24Dec2024 04:24:56.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 04:27:17.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
 [24Dec2024 04:27:17.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game
+[24Dec2024 04:29:56.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:29:56.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:29:57.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/76886, l='ServerLevel[world]', x=633.30, y=105.48, z=-346.62], dimensionLocationPath overworld
+[24Dec2024 04:29:57.366] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/76886, l='ServerLevel[world]', x=633.30, y=105.48, z=-346.62] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1f4d]
+[24Dec2024 04:29:57.866] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/76886, l='ServerLevel[world]', x=633.78, y=105.23, z=-346.96, removed=DISCARDED]
+[24Dec2024 04:30:01.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Set the weather to clear]
+[24Dec2024 04:30:29.327] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/8013, l='ServerLevel[world]', x=682.75, y=108.00, z=-353.30]
+[24Dec2024 04:30:35.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has reached the goal [Strong or Careful]
+[24Dec2024 04:30:35.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Jorogumo
+[24Dec2024 04:30:35.079] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:675, y:108, z:-350, dim:minecraft:overworld]
+[24Dec2024 04:30:35.084] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[24Dec2024 04:30:36.491] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/8013, l='ServerLevel[world]', x=655.50, y=108.00, z=-336.50]
+[24Dec2024 04:30:41.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 674.500000, 108.500000, -349.500000]
+[24Dec2024 04:31:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Set the time to 1000]
+[24Dec2024 04:34:56.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:34:56.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:37:51.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicaexactas lost connection: Disconnected
+[24Dec2024 04:37:51.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas left the game
+[24Dec2024 04:39:56.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:39:56.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:44:56.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:44:56.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
