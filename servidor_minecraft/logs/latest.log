@@ -1126,3 +1126,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [24Dec2024 05:01:35.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Neighborhood Brawl]
 [24Dec2024 05:01:35.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Bad Deal]
 [24Dec2024 05:01:56.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[24Dec2024 05:10:37.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
+[24Dec2024 05:15:52.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[24Dec2024 05:16:17.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 725.500000, 102.500000, -361.500000]
+[24Dec2024 05:17:16.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
