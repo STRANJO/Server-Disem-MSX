@@ -1805,6 +1805,7 @@
       "highland": "2024-12-24 02:55:59 +0000",
       "jacaranda_glade": "2024-12-24 02:56:05 +0000",
       "jade_cliffs": "2024-12-24 02:55:33 +0000",
+      "orchard": "2024-12-24 04:01:04 +0000",
       "overgrown_greens": "2024-12-24 01:51:37 +0000",
       "redwood_forest": "2024-12-24 02:49:55 +0000",
       "lavender_field": "2024-12-24 02:57:34 +0000",
@@ -4443,6 +4444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 03:26:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-24 03:22:46 +0000"
@@ -4458,6 +4465,30 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 03:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 03:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 03:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 03:36:07 +0000"
     },
     "done": true
   },
@@ -4497,9 +4528,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2024-12-24 04:04:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 03:26:41 +0000"
     },
     "done": true
   },
@@ -4515,9 +4558,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 03:26:41 +0000"
+    },
+    "done": true
+  },
   "buildinggadgets2:recipes/misc/gadget_building": {
     "criteria": {
       "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-24 03:26:41 +0000"
     },
     "done": true
   },

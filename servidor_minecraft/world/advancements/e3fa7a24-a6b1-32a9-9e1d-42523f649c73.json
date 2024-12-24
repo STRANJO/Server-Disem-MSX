@@ -5042,6 +5042,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/iron_bow": {
     "criteria": {
       "has_bow": "2024-12-24 02:57:39 +0000"
@@ -5054,15 +5072,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/hunting_post": {
     "criteria": {
       "has_arrow": "2024-12-24 02:57:39 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/stone_bow": {
     "criteria": {
       "has_bow": "2024-12-24 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
     },
     "done": true
   },
@@ -5078,6 +5126,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2024-12-24 02:49:58 +0000"
@@ -5090,9 +5144,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-24 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:25:01 +0000"
     },
     "done": true
   },
@@ -5108,6 +5192,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2024-12-24 02:56:17 +0000"
@@ -5117,6 +5207,12 @@
   "biomesoplenty:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_planks": "2024-12-24 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
     },
     "done": true
   },
@@ -5132,6 +5228,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/diamond_bow": {
     "criteria": {
       "has_bow": "2024-12-24 02:57:39 +0000"
@@ -5144,9 +5246,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2024-12-24 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-24 03:45:55 +0000"
     },
     "done": true
   },
@@ -5156,9 +5282,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-24 03:45:55 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
     "criteria": {
       "has_planks": "2024-12-24 02:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:25:01 +0000"
     },
     "done": true
   },
@@ -5168,9 +5318,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-24 03:25:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/graveyard_soil": {
     "criteria": {
       "has_item": "2024-12-24 02:57:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
     },
     "done": true
   },
@@ -5189,6 +5351,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-24 02:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-24 03:25:01 +0000"
     },
     "done": true
   },
