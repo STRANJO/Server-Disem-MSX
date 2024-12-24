@@ -1179,3 +1179,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [24Dec2024 05:39:12.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [24Dec2024 05:39:12.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [24Dec2024 05:39:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[24Dec2024 05:40:00.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 77.500000, 109.500000, -410.500000]
+[24Dec2024 05:40:00.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:40:03.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:lighthouse:L:77:109:-411:15:false:0:Internal-overworld-waypoints
+[24Dec2024 05:40:09.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 215.500000, 63.500000, -568.500000]
+[24Dec2024 05:40:17.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 138.500000, 72.500000, -664.500000]
+[24Dec2024 05:40:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 165.500000, 66.500000, -709.500000]
+[24Dec2024 05:40:42.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 193.500000, 91.500000, -737.500000]
+[24Dec2024 05:40:54.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Strong or Careful]
+[24Dec2024 05:40:54.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Fire Dragon
+[24Dec2024 05:40:54.947] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[24Dec2024 05:41:01.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 196.500000, 91.500000, -742.500000]
+[24Dec2024 05:41:07.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Fire Dragon
+[24Dec2024 05:41:07.644] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[24Dec2024 05:41:22.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Dragonslayer]
+[24Dec2024 05:45:30.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[24Dec2024 05:46:04.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 334.500000, 67.500000, -869.500000]
+[24Dec2024 05:46:10.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 457.500000, 83.500000, -943.500000]
+[24Dec2024 05:46:21.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 670.500000, 113.500000, -332.500000]
+[24Dec2024 05:47:32.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[24Dec2024 05:48:10.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
+[24Dec2024 05:48:26.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[24Dec2024 05:49:16.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 567.500000, 112.500000, -1037.500000]
+[24Dec2024 05:49:34.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 441.500000, 76.500000, -748.500000]
+[24Dec2024 05:49:53.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 569.500000, 31.500000, -750.500000]
+[24Dec2024 05:50:46.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto fell from a high place
+[24Dec2024 05:50:46.659] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[24Dec2024 05:52:53.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 664.500000, 119.500000, -1038.500000]
+[24Dec2024 05:53:05.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 773.500000, 65.500000, -1162.500000]
+[24Dec2024 05:53:21.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 885.500000, 87.500000, -1134.500000]
+[24Dec2024 05:53:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 964.500000, 82.500000, -1141.500000]
+[24Dec2024 05:55:02.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:spawner zombies:S:982:67:-1146:12:false:0:Internal-overworld-waypoints
+[24Dec2024 05:57:17.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1186.500000, 64.500000, -1257.500000]
+[24Dec2024 05:57:35.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14577ms or 291 ticks behind
+[24Dec2024 05:57:35.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto moved too quickly! 1.7858687394738126,-0.3543225155558787,-9.950370802920247
+[24Dec2024 05:58:04.841] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[24Dec2024 05:58:19.268] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:58:19.269] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:58:33.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1266.500000, 91.500000, -1171.500000]
+[24Dec2024 05:58:33.621] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:58:36.573] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
