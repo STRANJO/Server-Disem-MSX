@@ -1110,3 +1110,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [24Dec2024 04:31:45.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Set the time to 1000]
 [24Dec2024 04:37:51.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicaexactas lost connection: Disconnected
 [24Dec2024 04:37:51.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas left the game
+[24Dec2024 04:53:06.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.90.21.49:60779] logged in with entity id 80466 at (267.69999998807907, -48.0, 768.1422493773757)
+[24Dec2024 04:53:06.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[24Dec2024 04:53:06.225] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[24Dec2024 04:53:07.629] [Netty Epoll Server IO #6/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[24Dec2024 04:54:53.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:Basesita:B:198:5:524:12:false:0:Internal-overworld-waypoints
+[24Dec2024 04:55:00.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:CASITA:C:649:108:-341:12:false:0:Internal-overworld-waypoints
+[24Dec2024 04:55:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:CASA:C:113:65:44:8:false:0:Internal-overworld-waypoints
+[24Dec2024 04:55:15.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
+[24Dec2024 04:58:37.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Werewolf
+[24Dec2024 04:58:37.146] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[24Dec2024 04:59:52.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Zombie
+[24Dec2024 04:59:52.247] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[24Dec2024 05:01:35.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/83340, l='ServerLevel[world]', x=654.43, y=108.56, z=-338.25] died, message: 'Unemployed was slain by Liraanto'
+[24Dec2024 05:01:35.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Neighborhood Brawl]
+[24Dec2024 05:01:35.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Bad Deal]
+[24Dec2024 05:01:56.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]

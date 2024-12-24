@@ -5072,6 +5072,18 @@
     },
     "done": true
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2024-12-24 05:01:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 05:01:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_blinds": {
     "criteria": {
       "has_log": "2024-12-24 03:25:01 +0000"
