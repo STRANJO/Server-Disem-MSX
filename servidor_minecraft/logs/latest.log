@@ -1135,3 +1135,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [24Dec2024 05:24:43.020] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [24Dec2024 05:25:52.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
 [24Dec2024 05:27:10.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=726, y=62, z=-379} BlockPos{x=727, y=63, z=-380}
+[24Dec2024 05:29:58.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
+[24Dec2024 05:30:17.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[24Dec2024 05:31:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
+[24Dec2024 05:31:52.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[24Dec2024 05:32:47.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[24Dec2024 05:32:58.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
+[24Dec2024 05:33:14.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 108.500000, 63.500000, 405.500000]
+[24Dec2024 05:33:27.149] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-69, y=22, z=167}
+[24Dec2024 05:33:33.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/91957, l='ServerLevel[world]', x=141.70, y=66.00, z=393.30] died, message: 'Oceanographer was slain by Zombie'
+[24Dec2024 05:33:40.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/91958, l='ServerLevel[world]', x=141.69, y=66.00, z=393.30] died, message: 'Hunter was slain by Zombie'
+[24Dec2024 05:33:47.890] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91956, l='ServerLevel[world]', x=138.30, y=66.00, z=393.67] died, message: 'Unemployed was slain by Zombie'
+[24Dec2024 05:33:51.518] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:33:51.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:33:51.519] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:34:09.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 332.500000, 89.500000, 405.500000]
+[24Dec2024 05:34:30.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 453.500000, 150.500000, 408.500000]
+[24Dec2024 05:34:37.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 507.500000, 125.500000, 337.500000]
+[24Dec2024 05:35:28.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 519.500000, 76.500000, 203.500000]
+[24Dec2024 05:35:29.902] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=412, y=-35, z=-7}
+[24Dec2024 05:35:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 643.500000, 68.500000, 161.500000]
+[24Dec2024 05:35:39.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 673.500000, 66.500000, 82.500000]
+[24Dec2024 05:35:49.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 514.500000, 68.500000, 33.500000]
+[24Dec2024 05:35:50.106] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=303, y=-45, z=-172}
+[24Dec2024 05:35:50.114] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=304, y=-45, z=-172}
+[24Dec2024 05:35:55.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 516.500000, 69.500000, -72.500000]
+[24Dec2024 05:36:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 388.500000, 67.500000, -137.500000]
+[24Dec2024 05:36:11.264] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=277, y=-53, z=-280}
+[24Dec2024 05:36:11.265] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=277, y=-53, z=-281}
+[24Dec2024 05:36:14.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 338.500000, 63.500000, -54.500000]
+[24Dec2024 05:36:45.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 428.500000, 67.500000, -530.500000]
+[24Dec2024 05:36:53.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 324.500000, 64.500000, -441.500000]
+[24Dec2024 05:37:05.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 200.500000, 81.500000, -420.500000]
+[24Dec2024 05:37:14.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 114.500000, 66.500000, -400.500000]
+[24Dec2024 05:37:20.969] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:37:22.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [The Lighthouse]
+[24Dec2024 05:37:24.556] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-39, y=-12, z=-216}
+[24Dec2024 05:37:24.556] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-40, y=-12, z=-216}
+[24Dec2024 05:37:59.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:38:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 79.500000, 127.500000, -410.500000]
+[24Dec2024 05:38:11.769] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:38:56.483] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/82996, l='ServerLevel[world]', x=599.41, y=103.00, z=-338.10] died, message: 'Unemployed was slain by Ghost'
+[24Dec2024 05:39:12.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:39:12.219] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Dec2024 05:39:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]

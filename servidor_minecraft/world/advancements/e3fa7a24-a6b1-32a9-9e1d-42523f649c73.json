@@ -4840,6 +4840,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-24 05:34:25 +0000",
       "apple": "2024-12-24 03:15:09 +0000",
       "bread": "2024-12-24 02:10:34 +0000"
     },
@@ -5319,6 +5320,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-24 05:34:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
     "criteria": {
       "has_oak_planks": "2024-12-24 05:17:28 +0000"
@@ -5478,6 +5485,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-24 03:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_the_recipe": "2024-12-24 05:34:22 +0000"
     },
     "done": true
   },
