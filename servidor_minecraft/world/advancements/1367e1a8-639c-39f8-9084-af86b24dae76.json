@@ -4188,9 +4188,24 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_rotten_flesh": "2024-12-24 02:57:39 +0000"
+      "minecraft:skeleton": "2024-12-24 02:47:34 +0000",
+      "minecraft:spider": "2024-12-24 02:41:40 +0000",
+      "minecraft:witch": "2024-12-24 02:50:58 +0000",
+      "minecraft:zombie": "2024-12-24 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-24 02:41:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-24 02:42:47 +0000"
     },
     "done": true
   },
@@ -4206,60 +4221,9 @@
     },
     "done": true
   },
-  "crystalcraft_unlimited_java:stronger_then_steel": {
-    "criteria": {
-      "stronger_then_steel_0": "2024-12-24 02:44:05 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2024-12-24 03:04:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-24 02:43:28 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
-    "criteria": {
-      "has_tall_lavender": "2024-12-24 03:01:51 +0000"
-    },
-    "done": true
-  },
-  "crystalcraft_unlimited_java:rose_quartz_or_pink_diamond": {
-    "criteria": {
-      "rose_quartz_or_pink_diamond_0": "2024-12-24 02:44:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-24 02:47:34 +0000",
-      "minecraft:spider": "2024-12-24 02:41:40 +0000",
-      "minecraft:witch": "2024-12-24 02:50:58 +0000",
-      "minecraft:zombie": "2024-12-24 03:01:12 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/baking/baked_potato": {
-    "criteria": {
-      "has_result": "2024-12-24 03:08:21 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:witch_huts": {
-    "criteria": {
-      "in_witch_hut_giant_tree_taiga": "2024-12-24 02:50:37 +0000"
-    },
-    "done": false
-  },
-  "crystalcraft_unlimited_java:green_redstone": {
-    "criteria": {
-      "green_redstone_0": "2024-12-24 03:11:58 +0000"
     },
     "done": true
   },
@@ -4281,12 +4245,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-24 02:53:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-24 02:43:28 +0000"
@@ -4299,27 +4257,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_result": "2024-12-24 03:08:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-24 02:43:28 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/stone_sword_repairing": {
-    "criteria": {
-      "has_stone_sword": "2024-12-24 02:42:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2024-12-24 03:08:20 +0000"
     },
     "done": true
   },
@@ -4377,21 +4317,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-24 02:50:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-24 02:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:spider": "2024-12-24 02:41:40 +0000"
     },
     "done": true
   },
@@ -4407,9 +4335,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "crystalcraft_unlimited_java:stronger_then_steel": {
     "criteria": {
-      "coded_trigger": "2024-12-24 03:10:44 +0000"
+      "stronger_then_steel_0": "2024-12-24 02:44:05 +0000"
+    },
+    "done": true
+  },
+  "crystalcraft_unlimited_java:rose_quartz_or_pink_diamond": {
+    "criteria": {
+      "rose_quartz_or_pink_diamond_0": "2024-12-24 02:44:54 +0000"
     },
     "done": true
   },
@@ -4419,9 +4353,183 @@
     },
     "done": true
   },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_giant_tree_taiga": "2024-12-24 02:50:37 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 02:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-24 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-24 02:57:39 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_lavender": "2024-12-24 02:58:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_tall_lavender": "2024-12-24 03:01:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-24 03:04:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-24 03:08:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_result": "2024-12-24 03:08:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_result": "2024-12-24 03:08:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 03:10:44 +0000"
+    },
+    "done": true
+  },
+  "crystalcraft_unlimited_java:green_redstone": {
+    "criteria": {
+      "green_redstone_0": "2024-12-24 03:11:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-24 03:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_building": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_exchanging": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-24 03:22:46 +0000"
     },
     "done": true
   },

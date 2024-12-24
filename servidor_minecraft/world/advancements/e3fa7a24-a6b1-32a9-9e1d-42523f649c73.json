@@ -4839,6 +4839,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-24 03:15:09 +0000",
       "bread": "2024-12-24 02:10:34 +0000"
     },
     "done": false
@@ -5062,6 +5063,12 @@
   "morebows:recipes/stone_bow": {
     "criteria": {
       "has_bow": "2024-12-24 02:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-24 03:21:54 +0000"
     },
     "done": true
   },
