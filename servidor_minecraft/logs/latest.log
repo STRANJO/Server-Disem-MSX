@@ -689,3 +689,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [24Dec2024 17:07:00.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 436.500000, 106.500000, 253.500000]
 [24Dec2024 17:07:09.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 548.500000, 85.500000, 247.500000]
 [24Dec2024 17:07:28.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 454.500000, 68.500000, 192.500000]
+[24Dec2024 17:08:04.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[24Dec2024 17:12:03.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[24Dec2024 17:12:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[24Dec2024 17:12:03.719] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 17:17:21.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.92.189.101:50096] logged in with entity id 13317 at (653.02317918602, 108.0, -333.5658665541402)
+[24Dec2024 17:17:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[24Dec2024 17:17:21.821] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[24Dec2024 17:17:24.106] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[24Dec2024 17:17:24.128] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[24Dec2024 17:17:24.132] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
