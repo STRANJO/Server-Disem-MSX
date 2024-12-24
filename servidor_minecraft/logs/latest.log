@@ -1078,3 +1078,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [24Dec2024 04:06:44.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 649.500000, 108.500000, -340.500000]
 [24Dec2024 04:07:08.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has reached the goal [Bone Crusher]
 [24Dec2024 04:07:35.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[24Dec2024 04:09:04.536] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4df0a546[id=<null>,name=STRANJO,properties={},legacy=false] (/100.90.21.49:59622) lost connection: Disconnected
+[24Dec2024 04:10:23.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=691, y=108, z=-303} BlockPos{x=690, y=108, z=-300}
+[24Dec2024 04:10:23.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=691, y=108, z=-303} BlockPos{x=690, y=108, z=-300}
+[24Dec2024 04:11:00.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.90.21.49:59698] logged in with entity id 69231 at (263.1136136442234, -47.0, 767.0234405897999)
+[24Dec2024 04:11:00.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[24Dec2024 04:11:00.291] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[24Dec2024 04:11:01.793] [Netty Epoll Server IO #15/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[24Dec2024 04:11:51.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=623, y=106, z=-320} BlockPos{x=622, y=105, z=-320}
+[24Dec2024 04:11:52.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=623, y=106, z=-320} BlockPos{x=622, y=105, z=-320}
+[24Dec2024 04:11:52.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=622, y=106, z=-319} BlockPos{x=624, y=106, z=-320}
+[24Dec2024 04:13:54.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Neighborhood Brawl]
+[24Dec2024 04:14:37.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[24Dec2024 04:14:37.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[24Dec2024 04:16:07.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=628, y=109, z=-295} BlockPos{x=629, y=107, z=-295}
+[24Dec2024 04:16:07.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=628, y=109, z=-295} BlockPos{x=629, y=107, z=-295}
+[24Dec2024 04:18:05.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Set the time to 1000]
+[24Dec2024 04:23:59.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=631, y=104, z=-348} BlockPos{x=631, y=103, z=-345}
+[24Dec2024 04:24:00.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=632, y=104, z=-347} BlockPos{x=634, y=103, z=-348}
+[24Dec2024 04:24:03.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=636, y=105, z=-354} BlockPos{x=636, y=104, z=-355}
+[24Dec2024 04:24:03.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=636, y=105, z=-354} BlockPos{x=636, y=104, z=-355}
+[24Dec2024 04:24:03.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=635, y=105, z=-357} BlockPos{x=636, y=104, z=-355}
+[24Dec2024 04:24:03.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=635, y=105, z=-357} BlockPos{x=636, y=104, z=-355}
+[24Dec2024 04:27:17.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito lost connection: Disconnected
+[24Dec2024 04:27:17.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito left the game

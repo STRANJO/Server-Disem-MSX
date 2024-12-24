@@ -5150,6 +5150,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-12-24 04:24:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-24 04:13:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_table": {
     "criteria": {
       "has_planks": "2024-12-24 03:25:01 +0000"
@@ -5258,6 +5270,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-24 04:06:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2024-12-24 02:57:39 +0000"
@@ -5345,6 +5363,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2024-12-24 02:57:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_jacaranda_wood": {
+    "criteria": {
+      "has_log": "2024-12-24 04:13:54 +0000"
     },
     "done": true
   },
