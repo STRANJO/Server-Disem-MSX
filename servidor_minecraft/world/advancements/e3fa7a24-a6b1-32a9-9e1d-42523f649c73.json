@@ -113,6 +113,7 @@
       "minecraft:birch_forest": "2024-12-24 00:23:44 +0000",
       "minecraft:beach": "2024-12-24 00:21:21 +0000",
       "minecraft:river": "2024-12-24 00:22:49 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-25 23:42:19 +0000",
       "minecraft:dripstone_caves": "2024-12-24 03:12:06 +0000",
       "minecraft:forest": "2024-12-24 00:21:47 +0000",
       "minecraft:lush_caves": "2024-12-24 00:35:41 +0000",
@@ -2561,6 +2562,7 @@
       "highland": "2024-12-24 02:48:51 +0000",
       "jacaranda_glade": "2024-12-24 02:15:49 +0000",
       "jade_cliffs": "2024-12-24 19:21:41 +0000",
+      "old_growth_woodland": "2024-12-25 23:41:20 +0000",
       "orchard": "2024-12-24 02:48:46 +0000",
       "overgrown_greens": "2024-12-24 00:41:04 +0000",
       "redwood_forest": "2024-12-24 02:49:56 +0000",
@@ -6151,6 +6153,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2024-12-25 23:47:11 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
@@ -6178,6 +6186,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-25 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-25 23:47:11 +0000"
     },
     "done": true
   },
