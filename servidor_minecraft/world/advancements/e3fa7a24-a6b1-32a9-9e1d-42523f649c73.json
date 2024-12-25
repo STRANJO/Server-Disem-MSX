@@ -2555,6 +2555,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-25 23:11:30 +0000",
+      "rocky_shrubland": "2024-12-25 23:11:12 +0000",
+      "floodplain": "2024-12-25 23:30:36 +0000",
       "highland": "2024-12-24 02:48:51 +0000",
       "jacaranda_glade": "2024-12-24 02:15:49 +0000",
       "jade_cliffs": "2024-12-24 19:21:41 +0000",
@@ -2564,7 +2567,8 @@
       "dune_beach": "2024-12-24 19:07:07 +0000",
       "lavender_field": "2024-12-24 02:11:17 +0000",
       "prairie": "2024-12-24 02:47:13 +0000",
-      "glowing_grotto": "2024-12-24 00:36:47 +0000"
+      "glowing_grotto": "2024-12-24 00:36:47 +0000",
+      "rainforest": "2024-12-25 23:25:21 +0000"
     },
     "done": false
   },
@@ -4849,7 +4853,9 @@
     "criteria": {
       "cooked_mutton": "2024-12-24 05:34:25 +0000",
       "apple": "2024-12-24 03:15:09 +0000",
-      "bread": "2024-12-24 02:10:34 +0000"
+      "pumpkin_pie": "2024-12-25 22:53:33 +0000",
+      "bread": "2024-12-24 02:10:34 +0000",
+      "golden_apple": "2024-12-25 23:30:24 +0000"
     },
     "done": false
   },
@@ -6130,6 +6136,132 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-24 20:31:49 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2024-12-25 23:14:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-25 23:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-25 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-25 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-25 23:12:23 +0000"
+    },
+    "done": true
+  },
+  "crystalcraft_unlimited_java:radioactive": {
+    "criteria": {
+      "radioactive_0": "2024-12-25 23:20:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-25 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-25 23:10:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-25 23:38:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2024-12-25 23:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-25 23:28:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-25 23:12:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-25 23:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-25 23:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-25 23:12:23 +0000"
     },
     "done": true
   },
