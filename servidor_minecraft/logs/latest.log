@@ -11,3 +11,51 @@
 [26Dec2024 00:42:15.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
 [26Dec2024 00:42:15.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
 [26Dec2024 00:42:15.147] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[26Dec2024 00:49:21.842] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c620c47[id=<null>,name=STRANJO,properties={},legacy=false] (/100.92.189.101:58113) lost connection: Disconnected
+[26Dec2024 00:49:40.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.92.189.101:58146] logged in with entity id 36441 at (652.860067989013, 108.0, -339.68369284072094)
+[26Dec2024 00:49:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[26Dec2024 00:49:40.350] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[26Dec2024 00:49:40.350] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[26Dec2024 00:49:40.350] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[26Dec2024 00:49:40.352] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[26Dec2024 00:49:41.055] [Netty Epoll Server IO #8/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[26Dec2024 00:54:29.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[26Dec2024 00:54:29.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[26Dec2024 00:54:29.147] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[26Dec2024 00:54:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Dec2024 00:54:33.488] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[26Dec2024 00:54:33.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Dec2024 00:54:33.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Dec2024 00:54:33.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Dec2024 00:54:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Dec2024 00:54:33.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[26Dec2024 00:54:33.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[26Dec2024 00:54:33.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Dec2024 00:54:33.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[26Dec2024 00:54:33.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[26Dec2024 00:54:33.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[26Dec2024 00:54:33.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[26Dec2024 00:54:33.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[26Dec2024 00:54:33.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[26Dec2024 00:54:33.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[26Dec2024 00:54:33.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[26Dec2024 00:54:33.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Dec2024 00:54:33.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[26Dec2024 00:54:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Dec2024 00:54:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[26Dec2024 00:54:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[26Dec2024 00:54:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Dec2024 00:54:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[26Dec2024 00:54:33.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[26Dec2024 00:54:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Dec2024 00:54:33.840] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Dec2024 00:54:33.845] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[26Dec2024 00:54:33.847] [Server thread/INFO] [Framework/]: Finished unloading server configs
