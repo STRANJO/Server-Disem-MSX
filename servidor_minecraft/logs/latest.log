@@ -764,3 +764,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [26Dec2024 14:48:25.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto hit the ground too hard
 [26Dec2024 14:48:25.874] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
 [26Dec2024 14:48:33.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 194.500000, 4.500000, 531.500000]
+[26Dec2024 15:09:52.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.92.189.101:58316] logged in with entity id 15814 at (200.56261574775058, 3.0, 524.2711208583171)
+[26Dec2024 15:09:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[26Dec2024 15:09:52.618] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[26Dec2024 15:09:52.619] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[26Dec2024 15:09:52.619] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[26Dec2024 15:09:52.621] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[26Dec2024 15:09:55.500] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[26Dec2024 15:09:55.512] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[26Dec2024 15:09:55.515] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
