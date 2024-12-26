@@ -7187,5 +7187,17 @@
     },
     "done": true
   },
+  "crystalcraft_unlimited_java:watermelon": {
+    "criteria": {
+      "watermelon_0": "2024-12-26 14:18:43 +0000"
+    },
+    "done": true
+  },
+  "crystalcraft_unlimited_java:garnet_miner": {
+    "criteria": {
+      "garnet_miner_0": "2024-12-26 14:17:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

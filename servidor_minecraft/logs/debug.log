@@ -10508,3 +10508,104 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [26Dec2024 14:12:27.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [26Dec2024 14:12:27.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [26Dec2024 14:12:27.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:14:07.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:14:07.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:14:52.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 14:14:52.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 14:16:29.495] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:16:29.496] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:16:50.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:16:50.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:16:50.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:17:47.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Made of love]
+[26Dec2024 14:17:48.196] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:17:48.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:18:22.443] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3703, l='ServerLevel[world]', x=97.60, y=18.29, z=-286.30], dimensionLocationPath overworld
+[26Dec2024 14:18:22.443] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3703, l='ServerLevel[world]', x=97.60, y=18.29, z=-286.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f0]
+[26Dec2024 14:18:22.943] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3703, l='ServerLevel[world]', x=96.90, y=18.05, z=-286.13, removed=DISCARDED]
+[26Dec2024 14:18:43.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Mining Melons]
+[26Dec2024 14:19:09.596] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:19:52.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 14:19:52.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 14:20:56.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:22:30.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:22:35.394] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:22:35.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:22:35.395] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:22:35.396] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:22:46.455] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=66.48, y=61.17, z=-364.70]
+[26Dec2024 14:22:46.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=66.02, y=61.34, z=-365.15], dimensionLocationPath overworld
+[26Dec2024 14:22:46.705] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=66.02, y=61.34, z=-365.15] in list []
+[26Dec2024 14:22:48.558] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=63.54, y=61.33, z=-366.89]
+[26Dec2024 14:23:01.610] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=18.34, y=62.67, z=-384.74], dimensionLocationPath overworld
+[26Dec2024 14:23:01.610] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=18.34, y=62.67, z=-384.74] in list []
+[26Dec2024 14:23:48.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-76.77, y=61.34, z=-413.88]
+[26Dec2024 14:24:03.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-106.36, y=62.80, z=-454.54], dimensionLocationPath overworld
+[26Dec2024 14:24:03.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-106.36, y=62.80, z=-454.54] in list []
+[26Dec2024 14:24:21.108] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-136.63, y=61.23, z=-485.38]
+[26Dec2024 14:24:21.758] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-137.55, y=61.40, z=-486.31], dimensionLocationPath overworld
+[26Dec2024 14:24:21.758] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-137.55, y=61.40, z=-486.31] in list []
+[26Dec2024 14:24:47.744] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:24:47.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:24:47.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:24:50.695] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:24:52.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 14:24:52.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 14:25:41.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:25:43.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:25:44.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:25:44.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:26:26.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:26:26.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:26:44.445] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:26:55.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:26:55.551] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:28:10.553] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=42.29, y=55.00, z=-672.16]
+[26Dec2024 14:28:11.154] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=41.93, y=55.00, z=-672.17], dimensionLocationPath overworld
+[26Dec2024 14:28:11.154] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=41.93, y=55.00, z=-672.17] in list []
+[26Dec2024 14:28:12.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=41.48, y=54.16, z=-672.59]
+[26Dec2024 14:28:13.105] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=41.70, y=54.44, z=-673.01], dimensionLocationPath overworld
+[26Dec2024 14:28:13.105] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=41.70, y=54.44, z=-673.01] in list []
+[26Dec2024 14:28:24.353] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=43.50, y=59.00, z=-669.66]
+[26Dec2024 14:28:24.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=43.49, y=59.48, z=-669.48], dimensionLocationPath overworld
+[26Dec2024 14:28:24.952] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=43.49, y=59.48, z=-669.48] in list []
+[26Dec2024 14:29:04.256] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=12.17, y=61.06, z=-743.21]
+[26Dec2024 14:29:04.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=12.53, y=61.30, z=-743.64], dimensionLocationPath overworld
+[26Dec2024 14:29:04.453] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=12.53, y=61.30, z=-743.64] in list []
+[26Dec2024 14:29:27.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:29:40.098] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:29:48.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:29:48.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:29:48.297] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:29:48.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:29:52.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 14:29:52.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 14:29:54.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Jaws]
+[26Dec2024 14:30:03.820] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=60.70, y=60.88, z=-960.70]
+[26Dec2024 14:30:04.410] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=59.29, y=61.38, z=-960.89], dimensionLocationPath overworld
+[26Dec2024 14:30:04.410] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=59.29, y=61.38, z=-960.89] in list []
+[26Dec2024 14:30:21.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:30:27.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:30:27.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:30:36.206] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=31.78, y=61.06, z=-964.47]
+[26Dec2024 14:30:36.408] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=31.31, y=61.30, z=-964.53], dimensionLocationPath overworld
+[26Dec2024 14:30:36.408] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=31.31, y=61.30, z=-964.53] in list []
+[26Dec2024 14:30:48.160] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=5.38, y=60.94, z=-966.70]
+[26Dec2024 14:30:51.010] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=5.70, y=61.36, z=-966.41], dimensionLocationPath overworld
+[26Dec2024 14:30:51.011] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=5.70, y=61.36, z=-966.41] in list []
+[26Dec2024 14:31:24.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:31:24.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:31:24.246] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:31:24.247] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:31:30.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=1.80, y=60.89, z=-967.73]
+[26Dec2024 14:31:44.978] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-48.50, y=62.73, z=-970.31], dimensionLocationPath overworld
+[26Dec2024 14:31:44.978] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-48.50, y=62.73, z=-970.31] in list []
+[26Dec2024 14:32:10.745] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:32:10.746] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:32:10.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:32:10.747] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 14:32:37.554] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-159.59, y=61.35, z=-997.76]
+[26Dec2024 14:32:44.755] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-159.39, y=62.65, z=-1021.39], dimensionLocationPath overworld
+[26Dec2024 14:32:44.755] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=-159.39, y=62.65, z=-1021.39] in list []
+[26Dec2024 14:33:05.512] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[26Dec2024 14:33:05.512] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
