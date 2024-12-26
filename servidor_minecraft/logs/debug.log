@@ -12385,3 +12385,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [26Dec2024 00:05:36.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
 [26Dec2024 00:05:36.148] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
 [26Dec2024 00:05:36.186] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/1008, l='ServerLevel[world]', x=652.86, y=108.00, z=-339.68, removed=UNLOADED_WITH_PLAYER]
+[26Dec2024 00:06:09.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 00:06:09.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 00:11:09.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 00:11:09.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 00:16:09.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 00:16:09.367] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
