@@ -822,3 +822,142 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [26Dec2024 05:28:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Set the time to 13000]
 [26Dec2024 05:30:29.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 735.500000, 134.500000, -191.500000]
 [26Dec2024 05:31:39.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 982.500000, 67.500000, -1145.500000]
+[26Dec2024 05:32:38.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 221.500000, 72.500000, 35.500000]
+[26Dec2024 05:32:45.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 211.500000, 72.500000, -287.500000]
+[26Dec2024 05:32:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 678.500000, 119.500000, -625.500000]
+[26Dec2024 05:32:58.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 941.500000, 70.500000, -1314.500000]
+[26Dec2024 05:32:59.467] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:32:59.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:32:59.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:32:59.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:33:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 644.500000, 91.500000, -1233.500000]
+[26Dec2024 05:33:26.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:33:27.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[26Dec2024 05:33:42.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto fell from a high place
+[26Dec2024 05:33:42.750] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[26Dec2024 05:33:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 640.500000, 68.500000, -1236.500000]
+[26Dec2024 05:34:06.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 670.500000, 75.500000, -1367.500000]
+[26Dec2024 05:34:14.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 837.500000, 72.500000, -1424.500000]
+[26Dec2024 05:34:29.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 1029.500000, 111.500000, -1030.500000]
+[26Dec2024 05:34:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 999.500000, 236.500000, -909.500000]
+[26Dec2024 05:34:48.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[26Dec2024 05:35:27.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 995.500000, 210.500000, -908.500000]
+[26Dec2024 05:35:29.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to STRANJO]
+[26Dec2024 05:35:30.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:Spawner wither:S:995:210:-909:7:false:0:Internal-overworld-waypoints
+[26Dec2024 05:36:05.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <STRANJO> xaero-waypoint:drake:D:215:-5:-847:6:false:0:Internal-overworld-waypoints
+[26Dec2024 05:36:09.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 215.500000, -4.500000, -846.500000]
+[26Dec2024 05:36:12.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:36:12.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:36:17.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 215.500000, -4.500000, -846.500000]
+[26Dec2024 05:36:17.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:36:17.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:36:22.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO moved too quickly! 7.63444287671652,-12.655123455104231,-10.071581223072258
+[26Dec2024 05:36:28.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was incinerated by Fire Dragon
+[26Dec2024 05:36:28.933] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[26Dec2024 05:36:31.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was turned into KFC by Fire Dragon
+[26Dec2024 05:36:31.964] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[26Dec2024 05:36:32.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 225.500000, -4.500000, -848.500000]
+[26Dec2024 05:36:39.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 226.500000, -4.500000, -852.500000]
+[26Dec2024 05:36:46.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was turned into KFC by Fire Dragon
+[26Dec2024 05:36:46.484] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[26Dec2024 05:36:51.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was turned into KFC by Fire Dragon
+[26Dec2024 05:36:51.764] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[26Dec2024 05:36:53.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 226.500000, -3.500000, -847.500000]
+[26Dec2024 05:36:53.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:36:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 228.500000, -1.500000, -838.500000]
+[26Dec2024 05:36:55.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:37:49.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was burnt to a crisp whilst fighting Fire Dragon
+[26Dec2024 05:37:49.581] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[26Dec2024 05:37:54.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 207.500000, -1.500000, -846.500000]
+[26Dec2024 05:38:03.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Fire Dragon
+[26Dec2024 05:38:03.982] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[26Dec2024 05:38:09.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 199.500000, -0.500000, -839.500000]
+[26Dec2024 05:38:11.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:38:22.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:38:32.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:38:47.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Cover Me with Diamonds]
+[26Dec2024 05:40:00.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:40:00.514] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:40:00.514] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:40:04.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:40:40.063] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:40:40.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:40:40.612] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:04.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:20.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:20.313] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:45.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:45.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:45.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:47.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:52.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:41:52.212] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:44:14.813] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:44:14.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:44:32.962] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:44:32.963] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:45:03.362] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:45:07.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:45:07.014] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:45:12.663] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:45:12.664] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:45:22.763] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:46:19.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[26Dec2024 05:46:19.763] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Dec2024 05:47:27.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[26Dec2024 05:47:27.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[26Dec2024 05:47:27.187] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[26Dec2024 05:47:27.237] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Dec2024 05:47:48.520] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70d8530e[id=<null>,name=STRANJO,properties={},legacy=false] (/100.90.21.49:52160) lost connection: Disconnected
+[26Dec2024 05:48:26.872] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8a93770[id=<null>,name=STRANJO,properties={},legacy=false] (/100.90.21.49:52226) lost connection: Disconnected
+[26Dec2024 05:51:56.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: STRANJO[/100.90.21.49:53569] logged in with entity id 27081 at (232.44603320549058, -50.58000001311302, -808.4260795126789)
+[26Dec2024 05:51:56.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO joined the game
+[26Dec2024 05:51:56.098] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[26Dec2024 05:51:56.098] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[26Dec2024 05:51:56.098] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[26Dec2024 05:51:56.100] [Server thread/INFO] [Jade/]: Syncing config to STRANJO (2e6e150c-8207-3118-accc-8edfd2b8dd5b)
+[26Dec2024 05:51:58.021] [Netty Epoll Server IO #11/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
+[26Dec2024 05:52:27.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[26Dec2024 05:52:27.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[26Dec2024 05:52:27.081] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[26Dec2024 05:52:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
+[26Dec2024 05:52:55.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: STRANJO lost connection: Disconnected
+[26Dec2024 05:52:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO left the game
+[26Dec2024 05:52:55.323] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[26Dec2024 05:53:58.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Dec2024 05:53:58.063] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[26Dec2024 05:53:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Dec2024 05:53:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Dec2024 05:53:58.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Dec2024 05:53:58.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Dec2024 05:53:58.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[26Dec2024 05:53:58.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_0
+[26Dec2024 05:53:58.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[26Dec2024 05:53:58.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Dec2024 05:53:58.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Dec2024 05:53:58.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_4
+[26Dec2024 05:53:58.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[26Dec2024 05:53:58.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[26Dec2024 05:53:58.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_1
+[26Dec2024 05:53:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_2
+[26Dec2024 05:53:58.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[26Dec2024 05:53:58.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_5
+[26Dec2024 05:53:58.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_backrooms_loxor:level_3
+[26Dec2024 05:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Dec2024 05:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[26Dec2024 05:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[26Dec2024 05:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[26Dec2024 05:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Dec2024 05:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Dec2024 05:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_4): All chunks are saved
+[26Dec2024 05:53:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[26Dec2024 05:53:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[26Dec2024 05:53:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_1): All chunks are saved
+[26Dec2024 05:53:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_2): All chunks are saved
+[26Dec2024 05:53:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[26Dec2024 05:53:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_5): All chunks are saved
+[26Dec2024 05:53:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_3): All chunks are saved
+[26Dec2024 05:53:58.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Dec2024 05:53:58.431] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Dec2024 05:53:58.432] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[26Dec2024 05:53:58.434] [Server thread/INFO] [Framework/]: Finished unloading server configs
