@@ -773,3 +773,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [26Dec2024 15:09:55.500] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] STRANJO: protocol version: 2.0
 [26Dec2024 15:09:55.512] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
 [26Dec2024 15:09:55.515] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[26Dec2024 15:17:19.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[26Dec2024 15:17:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 976.500000, 96.500000, -546.500000]
+[26Dec2024 15:17:55.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
+[26Dec2024 15:25:15.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 68.500000, 4.500000, 742.500000]
+[26Dec2024 15:32:56.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [It Belongs in a Museum]
+[26Dec2024 15:32:56.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Once Upon a Cave]
+[26Dec2024 15:33:32.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 198.500000, 5.500000, 524.500000]
