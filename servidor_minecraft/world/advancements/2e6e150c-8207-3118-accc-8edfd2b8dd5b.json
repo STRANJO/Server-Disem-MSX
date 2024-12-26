@@ -8706,6 +8706,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-26 05:18:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/glass_bridge_stair": {
     "criteria": {
       "has_planks": "2024-12-26 05:07:10 +0000"
@@ -8799,6 +8805,12 @@
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-26 05:07:10 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/ender_bow": {
+    "criteria": {
+      "has_ibow": "2024-12-26 05:25:50 +0000"
     },
     "done": true
   },
@@ -9024,6 +9036,12 @@
     },
     "done": true
   },
+  "morebows:recipes/multi_bow": {
+    "criteria": {
+      "has_ibow": "2024-12-26 05:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 05:07:10 +0000"
@@ -9063,6 +9081,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-26 05:07:10 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/frost_bow": {
+    "criteria": {
+      "has_ibow": "2024-12-26 05:25:50 +0000"
     },
     "done": true
   },
@@ -9141,6 +9165,12 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-26 05:07:10 +0000"
+    },
+    "done": true
+  },
+  "morebows:recipes/flame_bow": {
+    "criteria": {
+      "has_ibow": "2024-12-26 05:25:50 +0000"
     },
     "done": true
   },
