@@ -759,3 +759,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [26Dec2024 14:35:04.347] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [26Dec2024 14:35:04.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [26Dec2024 14:35:28.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 191.500000, -41.500000, 490.500000]
+[26Dec2024 14:47:33.754] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10732, l='ServerLevel[world]', x=141.70, y=66.00, z=393.30] died, message: 'Farmer was slain by Zombie'
+[26Dec2024 14:47:41.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10731, l='ServerLevel[world]', x=141.70, y=66.00, z=393.70] died, message: 'Unemployed was slain by Zombie'
+[26Dec2024 14:48:25.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto hit the ground too hard
+[26Dec2024 14:48:25.874] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[26Dec2024 14:48:33.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 194.500000, 4.500000, 531.500000]

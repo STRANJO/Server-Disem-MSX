@@ -10626,3 +10626,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [26Dec2024 14:41:17.343] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/11607, l='ServerLevel[world]', x=242.72, y=2.41, z=378.28], dimensionLocationPath overworld
 [26Dec2024 14:41:17.344] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/11607, l='ServerLevel[world]', x=242.72, y=2.41, z=378.28] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f0]
 [26Dec2024 14:41:17.843] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/11607, l='ServerLevel[world]', x=243.48, y=2.17, z=377.74, removed=DISCARDED]
+[26Dec2024 14:44:52.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 14:44:52.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 14:47:33.754] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10732, l='ServerLevel[world]', x=141.70, y=66.00, z=393.30] died, message: 'Farmer was slain by Zombie'
+[26Dec2024 14:47:41.951] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10731, l='ServerLevel[world]', x=141.70, y=66.00, z=393.70] died, message: 'Unemployed was slain by Zombie'
+[26Dec2024 14:48:17.362] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=174.00, y=9.74, z=524.45]
+[26Dec2024 14:48:17.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=175.04, y=10.97, z=524.68], dimensionLocationPath overworld
+[26Dec2024 14:48:17.904] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=175.04, y=10.97, z=524.68] in list []
+[26Dec2024 14:48:25.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto hit the ground too hard
+[26Dec2024 14:48:25.872] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:194, y:4, z:531, dim:minecraft:overworld]
+[26Dec2024 14:48:25.874] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[26Dec2024 14:48:25.893] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=194.05, y=4.00, z=531.30]
+[26Dec2024 14:48:27.961] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=655.50, y=108.00, z=-338.50]
+[26Dec2024 14:48:33.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 194.500000, 4.500000, 531.500000]
+[26Dec2024 14:48:35.599] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=194.50, y=4.06, z=531.50], dimensionLocationPath overworld
+[26Dec2024 14:48:35.599] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1008, l='ServerLevel[world]', x=194.50, y=4.06, z=531.50] in list []
+[26Dec2024 14:49:52.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 14:49:52.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
