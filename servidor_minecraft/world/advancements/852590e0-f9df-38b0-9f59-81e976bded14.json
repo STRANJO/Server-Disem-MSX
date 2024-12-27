@@ -6738,5 +6738,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-12-27 04:49:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
