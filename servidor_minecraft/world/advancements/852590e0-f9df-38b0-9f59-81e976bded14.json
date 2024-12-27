@@ -6737,6 +6737,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2024-12-27 05:03:08 +0000"
@@ -6796,6 +6802,12 @@
       "summon_luxtructosaurus": "2024-12-27 05:27:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
@@ -6863,6 +6875,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
       "has_feather": "2024-12-27 05:32:26 +0000"
@@ -6922,6 +6940,12 @@
       "cave_codex": "2024-12-27 04:56:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
@@ -6988,6 +7012,18 @@
       "has_stone_sword": "2024-12-27 04:41:28 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
   },
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
@@ -7061,6 +7097,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/tree_star": {
     "criteria": {
       "tree_star": "2024-12-27 05:28:35 +0000"
@@ -7090,6 +7132,12 @@
       "has_sandstone": "2024-12-27 05:07:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/jungle_blinds": {
     "criteria": {
@@ -7145,6 +7193,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-27 05:28:29 +0000"
@@ -7156,6 +7210,12 @@
       "has_nether_wart": "2024-12-27 05:32:58 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
@@ -7186,6 +7246,12 @@
       "has_log": "2024-12-27 05:28:29 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/jungle_upgraded_fence": {
     "criteria": {
@@ -7246,6 +7312,12 @@
       "cooked_dinosaur_chop": "2024-12-27 05:33:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 06:05:50 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
