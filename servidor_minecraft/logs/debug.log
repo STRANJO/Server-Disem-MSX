@@ -11563,3 +11563,241 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [27Dec2024 04:51:39.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 04:51:39.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Dec2024 04:51:42.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Together we're stronger]
+[27Dec2024 04:52:08.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Together we're stronger]
+[27Dec2024 04:52:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has made the advancement [Together we're stronger]
+[27Dec2024 04:53:53.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 198.500000, 5.500000, 524.500000]
+[27Dec2024 04:55:18.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has made the advancement [Flexible Schedule]
+[27Dec2024 04:55:18.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to chicaexactas]
+[27Dec2024 04:55:22.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Flexible Schedule]
+[27Dec2024 04:55:48.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to chicaexactas]
+[27Dec2024 04:55:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 654.500000, -40.500000, -236.500000]
+[27Dec2024 04:56:12.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Lorem Ipsum]
+[27Dec2024 04:56:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Liraanto> xaero-waypoint:cosa rara:C:654:-41:-237:15:false:0:Internal-overworld-waypoints
+[27Dec2024 04:56:17.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[27Dec2024 04:56:22.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 654.500000, -40.500000, -236.500000]
+[27Dec2024 04:56:30.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[27Dec2024 04:56:34.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Sneak 100]
+[27Dec2024 04:56:39.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 04:56:39.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 04:56:41.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto has made the advancement [Sneak 100]
+[27Dec2024 04:57:12.665] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.666] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.667] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.667] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.668] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.668] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.668] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.669] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.669] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.669] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.670] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.670] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.670] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.671] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.671] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.671] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.672] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.672] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.672] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.672] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.673] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.673] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.673] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.674] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.674] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.674] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.674] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.675] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.675] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.675] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.676] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.676] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.676] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.676] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.677] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.677] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.677] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.678] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.678] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.678] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.679] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.679] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.679] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.680] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.681] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.682] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.682] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.682] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.683] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.684] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.685] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:12.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/22876, l='ServerLevel[world]', x=655.33, y=-43.59, z=-230.73], dimensionLocationPath overworld
+[27Dec2024 04:57:12.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/22876, l='ServerLevel[world]', x=655.33, y=-43.59, z=-230.73] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f7, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4495]
+[27Dec2024 04:57:16.063] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.063] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.063] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.063] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.064] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.065] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.066] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.067] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.068] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:16.069] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 04:57:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was obliterated by a sonically-charged shriek
+[27Dec2024 04:57:17.282] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:642, y:-37, z:-262, dim:minecraft:overworld]
+[27Dec2024 04:57:17.290] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=642.71, y=-36.25, z=-261.50]
+[27Dec2024 04:57:17.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=642.71, y=-36.25, z=-261.50]
+[27Dec2024 04:57:17.292] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=642.71, y=-36.25, z=-261.50]
+[27Dec2024 04:57:17.294] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[27Dec2024 04:57:19.755] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=655.50, y=108.00, z=-338.50]
+[27Dec2024 04:57:21.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 640.500000, -35.500000, -262.500000]
+[27Dec2024 04:57:24.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=642.07, y=-36.00, z=-261.70], dimensionLocationPath overworld
+[27Dec2024 04:57:24.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=642.07, y=-36.00, z=-261.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f7, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@595c]
+[27Dec2024 04:57:27.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Warden
+[27Dec2024 04:57:27.033] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:638, y:-34, z:-266, dim:minecraft:overworld]
+[27Dec2024 04:57:27.039] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.30, y=-34.00, z=-265.70]
+[27Dec2024 04:57:27.041] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.30, y=-34.00, z=-265.70]
+[27Dec2024 04:57:27.041] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.30, y=-34.00, z=-265.70]
+[27Dec2024 04:57:27.044] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[27Dec2024 04:57:28.238] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=655.50, y=108.00, z=-338.50]
+[27Dec2024 04:57:30.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/22876, l='ServerLevel[world]', x=655.13, y=-45.00, z=-229.40, removed=DISCARDED]
+[27Dec2024 04:57:30.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
+[27Dec2024 04:57:30.831] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:639, y:-35, z:-264, dim:minecraft:overworld]
+[27Dec2024 04:57:30.845] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=639.30, y=-35.00, z=-263.12]
+[27Dec2024 04:57:30.850] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[27Dec2024 04:57:32.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 638.500000, -33.500000, -265.500000]
+[27Dec2024 04:57:32.477] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=655.50, y=108.00, z=-338.50]
+[27Dec2024 04:57:33.834] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.50, y=-33.94, z=-265.50], dimensionLocationPath overworld
+[27Dec2024 04:57:33.834] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.50, y=-33.94, z=-265.50] in list []
+[27Dec2024 04:57:34.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 639.500000, -34.500000, -263.500000]
+[27Dec2024 04:57:36.042] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=639.50, y=-34.94, z=-263.50], dimensionLocationPath overworld
+[27Dec2024 04:57:36.042] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=639.50, y=-34.94, z=-263.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f7]
+[27Dec2024 04:57:38.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Warden
+[27Dec2024 04:57:38.482] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:638, y:-34, z:-266, dim:minecraft:overworld]
+[27Dec2024 04:57:38.494] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.30, y=-34.00, z=-265.70]
+[27Dec2024 04:57:38.495] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.30, y=-34.00, z=-265.70]
+[27Dec2024 04:57:38.495] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.30, y=-34.00, z=-265.70]
+[27Dec2024 04:57:38.499] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[27Dec2024 04:57:39.667] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=655.50, y=108.00, z=-338.50]
+[27Dec2024 04:57:42.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
+[27Dec2024 04:57:42.283] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:639, y:-35, z:-262, dim:minecraft:overworld]
+[27Dec2024 04:57:42.297] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=639.95, y=-33.83, z=-261.69]
+[27Dec2024 04:57:42.300] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[27Dec2024 04:57:43.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 638.500000, -33.500000, -265.500000]
+[27Dec2024 04:57:43.758] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=655.50, y=108.00, z=-338.50]
+[27Dec2024 04:57:45.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 639.500000, -34.500000, -261.500000]
+[27Dec2024 04:57:46.384] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.50, y=-33.94, z=-265.50], dimensionLocationPath overworld
+[27Dec2024 04:57:46.384] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=638.50, y=-33.94, z=-265.50] in list []
+[27Dec2024 04:57:46.635] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=639.50, y=-34.94, z=-261.50], dimensionLocationPath overworld
+[27Dec2024 04:57:46.636] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=639.50, y=-34.94, z=-261.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f7]
+[27Dec2024 04:57:47.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [Phantom Thief]
+[27Dec2024 04:57:47.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has completed the challenge [It Spreads]
+[27Dec2024 04:58:08.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was slain by Warden
+[27Dec2024 04:58:08.285] [Server thread/DEBUG] [tombstone/]: A new grave of the player STRANJO was created at position [x:652, y:-38, z:-248, dim:minecraft:overworld]
+[27Dec2024 04:58:08.295] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=652.27, y=-38.00, z=-246.73]
+[27Dec2024 04:58:08.297] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=652.27, y=-38.00, z=-246.73]
+[27Dec2024 04:58:08.297] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=652.27, y=-38.00, z=-246.73]
+[27Dec2024 04:58:08.299] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[27Dec2024 04:58:10.127] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=655.50, y=108.00, z=-338.50]
+[27Dec2024 04:58:11.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 652.500000, -37.500000, -248.500000]
+[27Dec2024 04:58:13.386] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=652.06, y=-37.94, z=-248.25], dimensionLocationPath overworld
+[27Dec2024 04:58:13.386] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['STRANJO'/17557, l='ServerLevel[world]', x=652.06, y=-37.94, z=-248.25] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f7]
+[27Dec2024 04:58:13.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Warden
+[27Dec2024 04:58:13.434] [Server thread/DEBUG] [tombstone/]: A new grave of the player Liraanto was created at position [x:646, y:-37, z:-247, dim:minecraft:overworld]
+[27Dec2024 04:58:13.444] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=646.30, y=-37.00, z=-246.34]
+[27Dec2024 04:58:13.444] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=646.30, y=-37.00, z=-246.34]
+[27Dec2024 04:58:13.445] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=646.30, y=-37.00, z=-246.34]
+[27Dec2024 04:58:13.448] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[27Dec2024 04:58:15.205] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=655.50, y=108.00, z=-338.50]
+[27Dec2024 04:58:18.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 646.500000, -36.500000, -246.500000]
+[27Dec2024 04:58:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [chicaexactas: Teleported chicaexactas to 654.500000, -40.500000, -236.500000]
+[27Dec2024 04:58:22.733] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=646.50, y=-36.94, z=-246.50], dimensionLocationPath overworld
+[27Dec2024 04:58:22.734] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Liraanto'/1015, l='ServerLevel[world]', x=646.50, y=-36.94, z=-246.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4495]
+[27Dec2024 04:58:24.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was obliterated by a sonically-charged shriek
+[27Dec2024 04:58:24.482] [Server thread/DEBUG] [tombstone/]: A new grave of the player antiqueito was created at position [x:637, y:-35, z:-269, dim:minecraft:overworld]
+[27Dec2024 04:58:24.487] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=637.63, y=-33.77, z=-268.65]
+[27Dec2024 04:58:24.487] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=637.63, y=-33.77, z=-268.65]
+[27Dec2024 04:58:24.489] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[27Dec2024 04:58:26.062] [Server thread/DEBUG] [Radiant Gear/]: Built new CuriosLightSourceContainer for player ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=169.50, y=76.00, z=86.50]
+[27Dec2024 04:58:54.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]
+[27Dec2024 04:59:05.733] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=651.36, y=108.00, z=-338.77], dimensionLocationPath overworld
+[27Dec2024 04:59:05.733] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=651.36, y=108.00, z=-338.77] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4495, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f7]
+[27Dec2024 04:59:05.790] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=651.51, y=108.00, z=-338.62]
+[27Dec2024 04:59:06.186] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=652.41, y=109.25, z=-337.50], dimensionLocationPath overworld
+[27Dec2024 04:59:06.186] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=652.41, y=109.25, z=-337.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4495, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f7]
+[27Dec2024 04:59:06.683] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['antiqueito'/16022, l='ServerLevel[world]', x=652.67, y=108.00, z=-335.67]
+[27Dec2024 05:01:01.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to Liraanto]
+[27Dec2024 05:01:04.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [The Journey Begins]
+[27Dec2024 05:01:33.520] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:primordial_caves after 12s
+[27Dec2024 05:01:39.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 05:01:39.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 05:01:50.706] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:primordial_caves after 12s
+[27Dec2024 05:02:01.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 172.500000, 71.500000, 626.500000]
+[27Dec2024 05:02:18.550] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Could not find alexscaves:primordial_caves after 15s

@@ -7628,7 +7628,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2024-12-24 19:32:50 +0000"
+      "phantom": "2024-12-24 19:32:50 +0000",
+      "warden": "2024-12-27 04:57:47 +0000"
     },
     "done": false
   },
@@ -9463,9 +9464,93 @@
     },
     "done": true
   },
+  "crystalcraft_unlimited_java:together_we_are_stronger": {
+    "criteria": {
+      "together_we_are_stronger_0": "2024-12-27 04:51:42 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/building_blocks/red_wool_slab": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/building_blocks/red_wool_fence_gate": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2024-12-27 04:57:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/redstone/red_wool_pressure_plate": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/decorations/red_wool_wall": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/redstone/red_wool_button": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2024-12-27 04:46:19 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2024-12-27 04:57:49 +0000"
     },
     "done": true
   },
@@ -9481,6 +9566,36 @@
     },
     "done": true
   },
+  "wool_collection:recipes/decorations/red_wool_fence": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-12-27 04:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-27 04:57:47 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-12-27 04:57:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
       "has_item": "2024-12-27 04:46:19 +0000"
@@ -9490,6 +9605,12 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2024-12-27 04:46:19 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/building_blocks/red_wool_stairs": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 04:55:30 +0000"
     },
     "done": true
   },

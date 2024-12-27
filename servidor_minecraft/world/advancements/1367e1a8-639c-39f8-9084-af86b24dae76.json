@@ -115,6 +115,7 @@
       "minecraft:forest": "2024-12-24 01:42:44 +0000",
       "minecraft:lush_caves": "2024-12-24 01:51:36 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 01:59:10 +0000",
+      "minecraft:deep_dark": "2024-12-27 04:56:22 +0000",
       "minecraft:meadow": "2024-12-24 03:00:34 +0000"
     },
     "done": false
@@ -4197,7 +4198,8 @@
       "minecraft:creeper": "2024-12-24 04:31:11 +0000",
       "minecraft:witch": "2024-12-24 02:50:58 +0000",
       "minecraft:enderman": "2024-12-27 04:34:38 +0000",
-      "minecraft:zombie": "2024-12-24 03:01:12 +0000"
+      "minecraft:zombie": "2024-12-24 03:01:12 +0000",
+      "minecraft:zombie_villager": "2024-12-27 04:57:32 +0000"
     },
     "done": false
   },
@@ -4741,9 +4743,21 @@
     },
     "done": true
   },
+  "crystalcraft_unlimited_java:together_we_are_stronger": {
+    "criteria": {
+      "together_we_are_stronger_0": "2024-12-27 04:52:57 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-27 03:57:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2024-12-27 04:52:16 +0000"
     },
     "done": true
   },
@@ -4786,6 +4800,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 03:57:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-27 04:52:16 +0000"
     },
     "done": true
   },
@@ -4951,6 +4971,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-27 04:56:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 03:57:10 +0000"
@@ -5032,6 +5058,12 @@
   "cfm:recipes/decorations/light_blue_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 03:57:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-12-27 04:55:18 +0000"
     },
     "done": true
   },
