@@ -120,6 +120,7 @@
       "minecraft:lush_caves": "2024-12-24 00:35:41 +0000",
       "minecraft:ocean": "2024-12-24 00:25:23 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-24 00:27:52 +0000",
+      "minecraft:deep_dark": "2024-12-27 03:21:02 +0000",
       "minecraft:meadow": "2024-12-24 03:03:56 +0000",
       "minecraft:plains": "2024-12-24 18:58:45 +0000"
     },
@@ -7764,6 +7765,12 @@
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2024-12-27 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-12-27 03:21:02 +0000"
     },
     "done": true
   },
