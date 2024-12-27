@@ -2567,6 +2567,7 @@
       "orchard": "2024-12-24 02:48:46 +0000",
       "overgrown_greens": "2024-12-24 00:41:04 +0000",
       "mediterranean_forest": "2024-12-26 14:32:13 +0000",
+      "spider_nest": "2024-12-27 02:30:12 +0000",
       "redwood_forest": "2024-12-24 02:49:56 +0000",
       "dune_beach": "2024-12-24 19:07:07 +0000",
       "pasture": "2024-12-26 05:10:48 +0000",
@@ -4679,6 +4680,7 @@
       "minecraft:phantom": "2024-12-24 19:43:00 +0000",
       "minecraft:witch": "2024-12-24 20:25:31 +0000",
       "minecraft:wither_skeleton": "2024-12-24 19:30:56 +0000",
+      "minecraft:cave_spider": "2024-12-27 03:16:25 +0000",
       "minecraft:enderman": "2024-12-24 02:58:00 +0000",
       "minecraft:zombie": "2024-12-24 01:38:28 +0000",
       "minecraft:drowned": "2024-12-24 05:15:03 +0000",
@@ -7750,6 +7752,30 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-26 15:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-27 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-27 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-27 03:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-27 03:16:09 +0000"
     },
     "done": true
   },
