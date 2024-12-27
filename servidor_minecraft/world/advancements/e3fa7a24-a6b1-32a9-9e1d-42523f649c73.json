@@ -7804,12 +7804,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-27 04:16:39 +0000"
-    },
-    "done": false
-  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2024-12-27 03:52:11 +0000"
