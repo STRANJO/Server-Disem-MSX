@@ -703,3 +703,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [27Dec2024 03:43:10.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
 [27Dec2024 03:43:52.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 198.500000, 5.500000, 524.500000]
 [27Dec2024 03:49:33.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[27Dec2024 03:51:50.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chicaexactas[/100.125.84.8:49813] logged in with entity id 7071 at (655.7218125187987, 108.0, -291.72171051318867)
+[27Dec2024 03:51:51.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas joined the game
+[27Dec2024 03:51:51.128] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[27Dec2024 03:51:51.129] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[27Dec2024 03:51:51.130] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[27Dec2024 03:51:51.132] [Server thread/INFO] [Jade/]: Syncing config to chicaexactas (1367e1a8-639c-39f8-9084-af86b24dae76)
+[27Dec2024 03:51:55.512] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] chicaexactas: protocol version: 2.0
+[27Dec2024 03:51:55.518] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[27Dec2024 03:51:55.522] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
