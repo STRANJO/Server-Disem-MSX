@@ -9465,15 +9465,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
   "crystalcraft_unlimited_java:together_we_are_stronger": {
     "criteria": {
       "together_we_are_stronger_0": "2024-12-27 04:51:42 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2024-12-27 05:27:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2024-12-27 05:31:08 +0000"
+    },
+    "done": true
+  },
   "wool_collection:recipes/building_blocks/red_wool_slab": {
     "criteria": {
       "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:28:31 +0000"
     },
     "done": true
   },
@@ -9501,6 +9537,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
       "has_heart_of_the_deep": "2024-12-27 04:57:49 +0000"
@@ -9516,6 +9558,24 @@
   "wool_collection:recipes/redstone/red_wool_pressure_plate": {
     "criteria": {
       "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2024-12-27 05:16:54 +0000"
     },
     "done": true
   },
@@ -9537,15 +9597,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
   "wool_collection:recipes/decorations/red_wool_wall": {
     "criteria": {
       "has_trigger_item": "2024-12-27 04:55:30 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2024-12-27 05:31:08 +0000"
+    },
+    "done": true
+  },
   "wool_collection:recipes/redstone/red_wool_button": {
     "criteria": {
       "has_trigger_item": "2024-12-27 04:55:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2024-12-27 05:28:31 +0000"
     },
     "done": true
   },
@@ -9558,6 +9636,12 @@
   "deeperdarker:recipes/misc/reinforced_echo_shard": {
     "criteria": {
       "has_warden_carapace": "2024-12-27 04:57:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:28:31 +0000"
     },
     "done": true
   },
@@ -9579,9 +9663,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:28:31 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2024-12-27 04:55:22 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:28:31 +0000"
     },
     "done": true
   },
@@ -9594,6 +9702,12 @@
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-27 05:05:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 05:28:31 +0000"
     },
     "done": true
   },
@@ -9612,6 +9726,12 @@
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2024-12-27 04:57:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:28:31 +0000"
     },
     "done": true
   },

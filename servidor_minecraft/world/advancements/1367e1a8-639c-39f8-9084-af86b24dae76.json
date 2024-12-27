@@ -4797,9 +4797,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2024-12-27 05:27:56 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/stone_bow": {
     "criteria": {
       "has_bow": "2024-12-27 05:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 05:15:10 +0000"
     },
     "done": true
   },
@@ -4929,6 +4941,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-27 05:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-27 05:04:50 +0000"
@@ -5001,6 +5019,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2024-12-27 05:17:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-12-27 04:36:30 +0000"
@@ -5049,6 +5073,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_tremorsaurus": "2024-12-27 05:17:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 03:57:10 +0000"
@@ -5058,6 +5088,12 @@
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 03:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 05:15:10 +0000"
     },
     "done": true
   },
@@ -5097,6 +5133,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-27 05:29:12 +0000"
+    },
+    "done": true
+  },
   "morebows:recipes/diamond_bow": {
     "criteria": {
       "has_bow": "2024-12-27 05:04:50 +0000"
@@ -5112,6 +5154,12 @@
   "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
       "has_wheat": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2024-12-27 05:31:25 +0000"
     },
     "done": true
   },
@@ -5154,6 +5202,24 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2024-12-27 04:55:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-27 05:12:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-27 05:15:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-27 05:31:55 +0000"
     },
     "done": true
   },
@@ -5232,6 +5298,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-27 03:57:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-27 05:31:39 +0000"
     },
     "done": true
   },

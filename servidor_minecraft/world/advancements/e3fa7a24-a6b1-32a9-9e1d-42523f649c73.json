@@ -4864,6 +4864,7 @@
       "pumpkin_pie": "2024-12-25 22:53:33 +0000",
       "bread": "2024-12-24 02:10:34 +0000",
       "golden_apple": "2024-12-25 23:30:24 +0000",
+      "golden_carrot": "2024-12-27 05:20:01 +0000",
       "carrot": "2024-12-26 05:08:59 +0000"
     },
     "done": false
@@ -7756,6 +7757,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-27 03:16:09 +0000"
@@ -7767,6 +7774,18 @@
       "has_planks": "2024-12-27 03:52:11 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/summon_luxtructosaurus": {
+    "criteria": {
+      "summon_luxtructosaurus": "2024-12-27 05:27:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
   },
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
@@ -7786,6 +7805,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2024-12-27 03:52:10 +0000"
@@ -7804,6 +7829,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2024-12-27 03:52:11 +0000"
@@ -7815,6 +7846,18 @@
       "has_planks": "2024-12-27 03:52:11 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
   },
   "deeperdarker:main/root": {
     "criteria": {
@@ -7828,11 +7871,47 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2024-12-27 03:41:31 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
+  "threateningly_mobs:the_threateningly_mobs": {
+    "criteria": {
+      "the_threateningly_mobs_0": "2024-12-27 05:12:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
@@ -7846,9 +7925,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-27 05:13:10 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-27 05:32:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-27 04:56:41 +0000"
+    },
+    "done": true
+  },
+  "the_backrooms_loxor:level_1_enter_goal": {
+    "criteria": {
+      "level_1_enter_goal": "2024-12-27 05:12:15 +0000"
     },
     "done": true
   },
