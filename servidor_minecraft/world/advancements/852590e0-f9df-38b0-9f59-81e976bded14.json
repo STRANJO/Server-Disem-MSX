@@ -3007,6 +3007,7 @@
       "minecraft:skeleton": "2024-12-24 01:30:25 +0000",
       "minecraft:spider": "2024-12-24 01:08:56 +0000",
       "minecraft:creeper": "2024-12-24 01:55:27 +0000",
+      "minecraft:wither_skeleton": "2024-12-27 04:41:05 +0000",
       "minecraft:silverfish": "2024-12-24 03:13:55 +0000",
       "minecraft:zombie": "2024-12-24 00:43:05 +0000",
       "minecraft:drowned": "2024-12-24 02:57:26 +0000"
@@ -6722,6 +6723,18 @@
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2024-12-24 20:07:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-12-27 04:41:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-27 04:41:20 +0000"
     },
     "done": true
   },

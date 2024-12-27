@@ -716,3 +716,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [27Dec2024 04:30:10.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 167.500000, 64.500000, 443.500000]
 [27Dec2024 04:30:34.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12393, l='ServerLevel[world]', x=106.30, y=63.00, z=404.70] died, message: 'Unemployed was slain by Zombie'
 [27Dec2024 04:30:46.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/12390, l='ServerLevel[world]', x=110.30, y=64.00, z=395.30] died, message: 'Forester was slain by Zombie'
+[27Dec2024 04:32:41.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[27Dec2024 04:35:06.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has reached the goal [Strong or Careful]
+[27Dec2024 04:35:06.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was slain by Enderman
+[27Dec2024 04:35:07.160] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[27Dec2024 04:35:51.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to chicaexactas]
+[27Dec2024 04:36:11.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto was slain by Enderman
+[27Dec2024 04:36:11.239] [Server thread/INFO] [tombstone/]: The player Liraanto has successfully been saved
+[27Dec2024 04:36:16.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 675.500000, 108.500000, -345.500000]
+[27Dec2024 04:39:56.910] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: antiqueito[/100.109.62.125:53404] logged in with entity id 16022 at (1007.6877345143129, 211.0, -910.9904630141392)
+[27Dec2024 04:39:56.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito joined the game
+[27Dec2024 04:39:56.935] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[27Dec2024 04:39:56.935] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[27Dec2024 04:39:56.936] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[27Dec2024 04:39:56.937] [Server thread/INFO] [Jade/]: Syncing config to antiqueito (852590e0-f9df-38b0-9f59-81e976bded14)
+[27Dec2024 04:39:59.325] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] antiqueito: protocol version: 2.0
+[27Dec2024 04:40:41.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito fell from a high place
+[27Dec2024 04:40:41.011] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
