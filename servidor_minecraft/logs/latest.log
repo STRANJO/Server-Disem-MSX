@@ -3179,3 +3179,220 @@ com.google.gson.JsonSyntaxException: Unknown item 'samurai_dynasty:mask_quartz_s
 [27Dec2024 05:32:28.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6139ms or 122 ticks behind
 [27Dec2024 05:32:51.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7653ms or 153 ticks behind
 [27Dec2024 05:33:01.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[27Dec2024 05:33:16.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10217ms or 204 ticks behind
+[27Dec2024 05:33:33.249] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:33:33.249] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:33:39.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8077ms or 161 ticks behind
+[27Dec2024 05:33:44.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to antiqueito]
+[27Dec2024 05:33:52.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has made the advancement [Tastes Like Chicken]
+[27Dec2024 05:33:58.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was doomed to fall by Grottoceratops
+[27Dec2024 05:33:58.322] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[27Dec2024 05:33:59.878] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:34:17.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to STRANJO]
+[27Dec2024 05:34:29.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has made the advancement [Tastes Like Chicken]
+[27Dec2024 05:34:46.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[27Dec2024 05:34:58.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=949, y=-30, z=-34} BlockPos{x=950, y=-32, z=-33}
+[27Dec2024 05:35:04.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2804ms or 56 ticks behind
+[27Dec2024 05:35:05.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicaexactas lost connection: Disconnected
+[27Dec2024 05:35:05.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas left the game
+[27Dec2024 05:35:05.926] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[27Dec2024 05:37:28.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chicaexactas[/100.125.84.8:50105] logged in with entity id 56125 at (953.5980633979489, -29.0, -29.740907756560752)
+[27Dec2024 05:37:28.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas joined the game
+[27Dec2024 05:37:28.641] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: PLAYER_JOIN
+[27Dec2024 05:37:28.642] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: add_player wand
+[27Dec2024 05:37:28.642] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: config sent
+[27Dec2024 05:37:28.643] [Server thread/INFO] [Jade/]: Syncing config to chicaexactas (1367e1a8-639c-39f8-9084-af86b24dae76)
+[27Dec2024 05:37:29.269] [Netty Epoll Server IO #10/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] chicaexactas: protocol version: 2.0
+[27Dec2024 05:37:57.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[27Dec2024 05:38:03.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was slain by Vallumraptor
+[27Dec2024 05:38:03.385] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[27Dec2024 05:39:02.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported chicaexactas to STRANJO]
+[27Dec2024 05:39:34.407] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[27Dec2024 05:40:23.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=678, y=-20, z=128} BlockPos{x=678, y=-21, z=128}
+[27Dec2024 05:40:39.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:40:39.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:40:39.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:40:39.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:41:22.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito has reached the goal [Spear of Ages]
+[27Dec2024 05:41:44.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported chicaexactas to STRANJO]
+[27Dec2024 05:41:56.871] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:42:27.920] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:42:27.921] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:42:29.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:42:29.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:42:29.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:42:29.873] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:42:52.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:42:52.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:43:16.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:43:31.153] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.154] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.155] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.156] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.157] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.157] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.158] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.158] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.158] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.158] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.158] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.158] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.159] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.160] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.160] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.160] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.975] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.976] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.976] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.976] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.976] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.976] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.976] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.976] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.977] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.978] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.979] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.980] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.981] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:31.982] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]:  Chunk Protection canBreakBlock
+[27Dec2024 05:43:32.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:43:32.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:43:32.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:43:36.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:44:43.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Liraanto: Teleported Liraanto to 649.500000, 108.500000, -340.500000]
+[27Dec2024 05:44:45.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has reached the goal [Spear of Ages]
+[27Dec2024 05:44:53.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO has reached the goal [Spear of Ages]
+[27Dec2024 05:44:55.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Liraanto lost connection: Disconnected
+[27Dec2024 05:44:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Liraanto left the game
+[27Dec2024 05:44:55.298] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[27Dec2024 05:46:19.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to chicaexactas]
+[27Dec2024 05:47:18.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=736, y=-21, z=127} BlockPos{x=735, y=-20, z=127}
+[27Dec2024 05:47:19.842] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:herobrine but it was marked as removed already
+[27Dec2024 05:47:30.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was burnt to a crisp whilst fighting STRANJO
+[27Dec2024 05:47:30.446] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[27Dec2024 05:47:31.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:47:32.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: antiqueito moved too quickly! -571.0805031033697,75.16152601350238,-41.52265198091675
+[27Dec2024 05:47:32.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[27Dec2024 05:48:15.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas has reached the goal [Bone Crusher]
+[27Dec2024 05:50:29.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas was slain by Vallumraptor
+[27Dec2024 05:50:29.507] [Server thread/INFO] [tombstone/]: The player chicaexactas has successfully been saved
+[27Dec2024 05:51:18.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=-31, z=146} BlockPos{x=770, y=-32, z=145}
+[27Dec2024 05:51:18.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=770, y=-31, z=146} BlockPos{x=770, y=-32, z=145}
+[27Dec2024 05:52:11.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was slain by STRANJO
+[27Dec2024 05:52:11.533] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[27Dec2024 05:52:13.051] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:52:13.053] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:52:13.053] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:52:13.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:52:13.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:52:13.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Dec2024 05:53:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STRANJO was bitten in two by a prehistoric ghost controlled by antiqueito
+[27Dec2024 05:53:09.280] [Server thread/INFO] [tombstone/]: The player STRANJO has successfully been saved
+[27Dec2024 05:53:12.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 783.500000, -34.500000, 143.500000]
+[27Dec2024 05:53:24.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was burnt to a crisp whilst fighting STRANJO
+[27Dec2024 05:53:24.592] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[27Dec2024 05:56:05.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: antiqueito was slain by Werewolf
+[27Dec2024 05:56:05.999] [Server thread/INFO] [tombstone/]: The player antiqueito has successfully been saved
+[27Dec2024 05:58:03.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: chicaexactas lost connection: Disconnected
+[27Dec2024 05:58:03.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chicaexactas left the game
+[27Dec2024 05:58:03.137] [Server thread/INFO] [net.nicguzzo.wands.WandsMod/]: remove player wand
+[27Dec2024 05:58:32.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [STRANJO: Teleported STRANJO to 649.500000, 108.500000, -340.500000]
+[27Dec2024 06:01:03.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [antiqueito: Teleported antiqueito to 649.500000, 108.500000, -340.500000]

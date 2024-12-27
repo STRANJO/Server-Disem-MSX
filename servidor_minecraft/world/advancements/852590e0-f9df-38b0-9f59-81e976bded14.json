@@ -6863,6 +6863,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-27 05:32:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-27 05:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-12-27 05:07:12 +0000"
@@ -6983,6 +6995,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2024-12-27 05:41:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_park_bench": {
     "criteria": {
       "has_log": "2024-12-27 05:28:29 +0000"
@@ -7085,9 +7103,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-27 05:32:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-27 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-27 05:32:58 +0000"
     },
     "done": true
   },
@@ -7118,6 +7148,12 @@
   "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-27 05:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-27 05:32:58 +0000"
     },
     "done": true
   },
@@ -7202,6 +7238,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2024-12-27 05:28:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2024-12-27 05:33:52 +0000"
     },
     "done": true
   },
