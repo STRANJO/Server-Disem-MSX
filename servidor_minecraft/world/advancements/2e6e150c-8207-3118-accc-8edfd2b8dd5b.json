@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2024-12-27 05:05:43 +0000",
       "minecraft:birch_forest": "2024-12-24 00:24:50 +0000",
       "minecraft:beach": "2024-12-24 00:03:58 +0000",
       "minecraft:river": "2024-12-24 00:25:06 +0000",
@@ -9530,6 +9531,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-27 05:08:35 +0000"
+    },
+    "done": true
+  },
   "wool_collection:recipes/decorations/red_wool_wall": {
     "criteria": {
       "has_trigger_item": "2024-12-27 04:55:30 +0000"
@@ -9584,9 +9591,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-27 05:05:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-12-27 04:57:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-27 05:06:11 +0000"
     },
     "done": true
   },

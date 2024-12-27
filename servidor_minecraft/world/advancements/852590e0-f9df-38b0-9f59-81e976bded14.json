@@ -2082,6 +2082,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-27 05:02:01 +0000",
       "highland": "2024-12-24 02:55:59 +0000",
       "jacaranda_glade": "2024-12-24 01:38:31 +0000",
       "jade_cliffs": "2024-12-24 02:18:30 +0000",
@@ -3739,8 +3740,10 @@
     "criteria": {
       "cooked_porkchop": "2024-12-24 03:21:11 +0000",
       "cooked_beef": "2024-12-24 03:59:41 +0000",
+      "beef": "2024-12-27 05:08:34 +0000",
       "apple": "2024-12-24 02:14:27 +0000",
       "potato": "2024-12-24 01:07:12 +0000",
+      "mutton": "2024-12-27 05:05:08 +0000",
       "rotten_flesh": "2024-12-24 01:45:06 +0000"
     },
     "done": false
@@ -6727,9 +6730,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
   "crystalcraft_unlimited_java:together_we_are_stronger": {
     "criteria": {
       "together_we_are_stronger_0": "2024-12-27 04:52:08 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/curtains": {
+    "criteria": {
+      "has_wood": "2024-12-27 05:03:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
     },
     "done": true
   },
@@ -6739,15 +6778,81 @@
     },
     "done": true
   },
+  "wool_collection:recipes/building_blocks/brown_wool_stairs": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/redstone/brown_wool_pressure_plate": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/decorations/brown_wool_fence": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2024-12-27 04:56:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2024-12-27 04:41:28 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:07:12 +0000"
     },
     "done": true
   },
@@ -6763,6 +6868,84 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_subterranodon": "2024-12-27 05:09:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-27 05:04:05 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/building_blocks/brown_wool_slab": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/building_blocks/brown_wool_fence_gate": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2024-12-27 05:05:48 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/decorations/brown_wool_wall": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-27 05:05:44 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/redstone/brown_wool_button": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sugar_cube": {
     "criteria": {
       "has_sugar": "2024-12-27 04:49:46 +0000"
@@ -6772,6 +6955,18 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-27 04:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-27 05:07:12 +0000"
+    },
+    "done": true
+  },
+  "wool_collection:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_trigger_item": "2024-12-27 05:03:08 +0000"
     },
     "done": true
   },
